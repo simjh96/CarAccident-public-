@@ -1,0 +1,9 @@
+- crawled_df: 심재훈님께서 crawling 해주신 사고지점 데이터
+- overspeed_cam: compas+경찰청 제공 과속단속카메라 위도/경도
+- floating_pop: 2019년 7시~23시 평균 유동인구
+- bump: compas 제공 과속방지턱
+- child_pedestrian: crawled_df에서 피해운전자 차량이 보행자/자전거이면서 피해운전자 연령이 12세 이하인 data
+- child_pedestrian_protect: child_pedestrian 중 법규위반이 보행자보호의무위반인 사고
+- child_pedestrian_signal: child_pedestrian 중 법규위반이 신호위반인 사고
+- parking: 1.오산시_주정차단속(2018~2020).csv 파일
+- parking_cctv: compas+경찰청 제공 불법주정차 단속카메라 위도/경도

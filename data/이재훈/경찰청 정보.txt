@@ -1,0 +1,14 @@
+경찰청 사고정보
+https://www.police.go.kr/www/open/publice/publice2012_0401.jsp
+
+CCTV 설치 현황
+https://www.data.go.kr/tcs/dss/selectStdDataDetailView.do
+
+유사한 지역찾기 - 사고 숫자
+https://tmacs.kotsa.or.kr/web/TG/TG200/TG2100S/Tg2102.jsp?mid=S1179#
+
+2017년에 발생한 사망자가 발생한 교통사고정보(사고일시, 사고유형 등)
+https://www.data.go.kr/data/15065733/openapi.do
+
+도로별 평균 속도
+https://gits.gg.go.kr/gtdb/web/trafficDb/indexhtml/INDEX_HTML_OTVOL_LINE.do

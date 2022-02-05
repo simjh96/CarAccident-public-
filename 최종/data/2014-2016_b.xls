@@ -1,0 +1,4522 @@
+
+
+
+
+
+
+
+
+	
+
+<!DOCTYPE html PUBLIC "-//W3C//DTD HTML 4.01 Transitional//EN" "http://www.w3.org/TR/html4/loose.dtd">
+<html>
+<head>
+<meta http-equiv="Content-Type" content="text/html; charset=UTF-8">
+<title>Insert title here</title>
+</head>
+<body>
+
+
+
+
+
+
+
+
+
+<style type="text/css">
+table {width:100%;border-top:1px solid #737678;}
+td {border:1px solid #cccccc;text-align:center;vertical-align:middle;}
+.format-text-excel {mso-number-format:\@;}
+</style>
+
+<h></h>
+<table id="tableAllAcdntInfoList">
+	<colgroup>
+		<col width="103px;" />
+		<col width="135px;" />
+		<col width="55px;" />
+		<col width="190px;" />
+		<col width="85px;" />
+		<col width="60px;" />
+		<col width="60px" />
+		<col width="60px;" />
+		<col width="75px;" />
+		<col width="150px;" />
+		<col width="150px;" />
+		<col width="110px;" />
+		<col width="60px;" />
+		<col width="150px" />
+		<col width="60px;" />
+		<col width="60px;" />
+		<col width="60px;" />
+		<col width="75px;" />
+		<col width="60px;" />
+		<col width="60px;" />
+		<col width="60px" />
+		<col width="75px;" />
+		
+	</colgroup>
+	<thead>
+		<tr bgcolor="#ebf2f7">
+			<th>사고번호</th>
+			<th>사고일시</th>
+			<th>요일</th>
+			<th>시군구</th>
+			
+			<th>사고내용</th>
+			<th>사망자수</th>
+			<th>중상자수</th>
+			<th>경상자수</th>
+			<th>부상신고자수</th>
+			<th>사고유형</th>
+			<th>법규위반</th>
+			<th>노면상태</th>
+			<th>기상상태</th>
+			<th>도로형태</th>
+			<th>가해운전자 차종</th>
+			<th>가해운전자 성별</th>
+			<th>가해운전자 연령</th>
+			<th>가해운전자 상해정도</th>
+			<th>피해운전자 차종</th>
+			<th>피해운전자 성별</th>
+			<th>피해운전자 연령</th>
+			<th>피해운전자 상해정도</th>
+			
+		</tr>
+	</thead>
+	<tbody>
+		
+			<tr>
+					<td class="format-text-excel">2014010500100169</td>
+					<td>2014년  1월  5일 14시</td>
+					<td>일요일</td>
+					<td>경기도 오산시 세교동</td>
+				
+					<td>경상사고</td>
+					<td>0</td>
+					<td>0</td>
+					<td>1</td>
+					<td>0</td>
+					<td>차대사람 - 횡단중</td>
+					<td>안전운전불이행</td>
+					<td>포장 - 건조</td>
+					<td>맑음</td>
+					<td>단일로 - 기타</td>
+					<td>승용</td>
+					<td>남</td>
+					<td>57세</td>
+					<td>상해없음</td>
+					<td>보행자</td>
+					<td>남</td>
+					<td>7세</td>
+					<td>경상</td>
+				
+			</tr>
+		
+			<tr>
+					<td class="format-text-excel">2014011800100493</td>
+					<td>2014년  1월 18일 23시</td>
+					<td>토요일</td>
+					<td>경기도 오산시 원동</td>
+				
+					<td>경상사고</td>
+					<td>0</td>
+					<td>0</td>
+					<td>3</td>
+					<td>0</td>
+					<td>차대차 - 측면직각충돌</td>
+					<td>교차로운행방법위반</td>
+					<td>포장 - 건조</td>
+					<td>맑음</td>
+					<td>교차로 - 교차로안</td>
+					<td>승용</td>
+					<td>남</td>
+					<td>36세</td>
+					<td>상해없음</td>
+					<td>승용</td>
+					<td>남</td>
+					<td>31세</td>
+					<td>경상</td>
+				
+			</tr>
+		
+			<tr>
+					<td class="format-text-excel">2014011900100378</td>
+					<td>2014년  1월 19일 20시</td>
+					<td>일요일</td>
+					<td>경기도 오산시 오산동</td>
+				
+					<td>중상사고</td>
+					<td>0</td>
+					<td>2</td>
+					<td>1</td>
+					<td>0</td>
+					<td>차대차 - 기타</td>
+					<td>안전운전불이행</td>
+					<td>포장 - 건조</td>
+					<td>맑음</td>
+					<td>단일로 - 기타</td>
+					<td>승용</td>
+					<td>남</td>
+					<td>23세</td>
+					<td>상해없음</td>
+					<td>승용</td>
+					<td>여</td>
+					<td>35세</td>
+					<td>중상</td>
+				
+			</tr>
+		
+			<tr>
+					<td class="format-text-excel">2014012600100299</td>
+					<td>2014년  1월 26일 17시</td>
+					<td>일요일</td>
+					<td>경기도 오산시 세교동</td>
+				
+					<td>경상사고</td>
+					<td>0</td>
+					<td>0</td>
+					<td>1</td>
+					<td>0</td>
+					<td>차대차 - 측면직각충돌</td>
+					<td>신호위반</td>
+					<td>포장 - 건조</td>
+					<td>맑음</td>
+					<td>교차로 - 교차로부근</td>
+					<td>화물</td>
+					<td>남</td>
+					<td>42세</td>
+					<td>상해없음</td>
+					<td>자전거</td>
+					<td>남</td>
+					<td>7세</td>
+					<td>경상</td>
+				
+			</tr>
+		
+			<tr>
+					<td class="format-text-excel">2014012700100126</td>
+					<td>2014년  1월 27일 09시</td>
+					<td>월요일</td>
+					<td>경기도 오산시 세교동</td>
+				
+					<td>경상사고</td>
+					<td>0</td>
+					<td>0</td>
+					<td>4</td>
+					<td>2</td>
+					<td>차대차 - 기타</td>
+					<td>교차로운행방법위반</td>
+					<td>포장 - 건조</td>
+					<td>맑음</td>
+					<td>교차로 - 교차로안</td>
+					<td>승용</td>
+					<td>여</td>
+					<td>35세</td>
+					<td>상해없음</td>
+					<td>승합</td>
+					<td>남</td>
+					<td>51세</td>
+					<td>경상</td>
+				
+			</tr>
+		
+			<tr>
+					<td class="format-text-excel">2014012700100437</td>
+					<td>2014년  1월 27일 19시</td>
+					<td>월요일</td>
+					<td>경기도 오산시 오산동</td>
+				
+					<td>중상사고</td>
+					<td>0</td>
+					<td>1</td>
+					<td>1</td>
+					<td>0</td>
+					<td>차대차 - 추돌 - 진행중</td>
+					<td>안전운전불이행</td>
+					<td>포장 - 건조</td>
+					<td>맑음</td>
+					<td>단일로 - 기타</td>
+					<td>승용</td>
+					<td>남</td>
+					<td>56세</td>
+					<td>상해없음</td>
+					<td>승용</td>
+					<td>여</td>
+					<td>33세</td>
+					<td>중상</td>
+				
+			</tr>
+		
+			<tr>
+					<td class="format-text-excel">2014012800100585</td>
+					<td>2014년  1월 28일 19시</td>
+					<td>화요일</td>
+					<td>경기도 오산시 원동</td>
+				
+					<td>중상사고</td>
+					<td>0</td>
+					<td>1</td>
+					<td>0</td>
+					<td>0</td>
+					<td>차대사람 - 기타</td>
+					<td>안전운전불이행</td>
+					<td>포장 - 건조</td>
+					<td>맑음</td>
+					<td>단일로 - 기타</td>
+					<td>승용</td>
+					<td>남</td>
+					<td>41세</td>
+					<td>상해없음</td>
+					<td>보행자</td>
+					<td>남</td>
+					<td>7세</td>
+					<td>중상</td>
+				
+			</tr>
+		
+			<tr>
+					<td class="format-text-excel">2014012800100611</td>
+					<td>2014년  1월 28일 20시</td>
+					<td>화요일</td>
+					<td>경기도 오산시 금암동</td>
+				
+					<td>중상사고</td>
+					<td>0</td>
+					<td>1</td>
+					<td>0</td>
+					<td>0</td>
+					<td>차대사람 - 횡단중</td>
+					<td>보행자보호의무위반</td>
+					<td>포장 - 건조</td>
+					<td>맑음</td>
+					<td>교차로 - 교차로안</td>
+					<td>승합</td>
+					<td>남</td>
+					<td>33세</td>
+					<td>상해없음</td>
+					<td>보행자</td>
+					<td>남</td>
+					<td>2세</td>
+					<td>중상</td>
+				
+			</tr>
+		
+			<tr>
+					<td class="format-text-excel">2014012900100356</td>
+					<td>2014년  1월 29일 16시</td>
+					<td>수요일</td>
+					<td>경기도 오산시 가장동</td>
+				
+					<td>경상사고</td>
+					<td>0</td>
+					<td>0</td>
+					<td>5</td>
+					<td>0</td>
+					<td>차대차 - 측면직각충돌</td>
+					<td>교차로운행방법위반</td>
+					<td>포장 - 건조</td>
+					<td>맑음</td>
+					<td>교차로 - 교차로안</td>
+					<td>승용</td>
+					<td>남</td>
+					<td>39세</td>
+					<td>경상</td>
+					<td>승용</td>
+					<td>남</td>
+					<td>41세</td>
+					<td>경상</td>
+				
+			</tr>
+		
+			<tr>
+					<td class="format-text-excel">2014022000100098</td>
+					<td>2014년  2월 20일 07시</td>
+					<td>목요일</td>
+					<td>경기도 오산시 외삼미동</td>
+				
+					<td>경상사고</td>
+					<td>0</td>
+					<td>0</td>
+					<td>2</td>
+					<td>0</td>
+					<td>차대차 - 측면직각충돌</td>
+					<td>안전거리미확보</td>
+					<td>포장 - 건조</td>
+					<td>맑음</td>
+					<td>단일로 - 기타</td>
+					<td>화물</td>
+					<td>남</td>
+					<td>29세</td>
+					<td>상해없음</td>
+					<td>화물</td>
+					<td>여</td>
+					<td>30세</td>
+					<td>경상</td>
+				
+			</tr>
+		
+			<tr>
+					<td class="format-text-excel">2014032600100386</td>
+					<td>2014년  3월 26일 16시</td>
+					<td>수요일</td>
+					<td>경기도 오산시 원동</td>
+				
+					<td>경상사고</td>
+					<td>0</td>
+					<td>0</td>
+					<td>3</td>
+					<td>0</td>
+					<td>차대차 - 기타</td>
+					<td>교차로운행방법위반</td>
+					<td>포장 - 건조</td>
+					<td>맑음</td>
+					<td>교차로 - 교차로안</td>
+					<td>승용</td>
+					<td>남</td>
+					<td>31세</td>
+					<td>상해없음</td>
+					<td>승합</td>
+					<td>남</td>
+					<td>49세</td>
+					<td>상해없음</td>
+				
+			</tr>
+		
+			<tr>
+					<td class="format-text-excel">2014032900100150</td>
+					<td>2014년  3월 29일 07시</td>
+					<td>토요일</td>
+					<td>경기도 오산시 오산동</td>
+				
+					<td>경상사고</td>
+					<td>0</td>
+					<td>0</td>
+					<td>3</td>
+					<td>0</td>
+					<td>차대차 - 측면직각충돌</td>
+					<td>안전운전불이행</td>
+					<td>포장 - 건조</td>
+					<td>맑음</td>
+					<td>교차로 - 교차로부근</td>
+					<td>승용</td>
+					<td>여</td>
+					<td>54세</td>
+					<td>상해없음</td>
+					<td>승용</td>
+					<td>남</td>
+					<td>41세</td>
+					<td>경상</td>
+				
+			</tr>
+		
+			<tr>
+					<td class="format-text-excel">2014032900100548</td>
+					<td>2014년  3월 29일 20시</td>
+					<td>토요일</td>
+					<td>경기도 오산시 원동</td>
+				
+					<td>중상사고</td>
+					<td>0</td>
+					<td>1</td>
+					<td>6</td>
+					<td>0</td>
+					<td>차대차 - 기타</td>
+					<td>안전거리미확보</td>
+					<td>포장 - 습기</td>
+					<td>비</td>
+					<td>단일로 - 기타</td>
+					<td>승용</td>
+					<td>남</td>
+					<td>50세</td>
+					<td>상해없음</td>
+					<td>승용</td>
+					<td>남</td>
+					<td>54세</td>
+					<td>중상</td>
+				
+			</tr>
+		
+			<tr>
+					<td class="format-text-excel">2014040400100359</td>
+					<td>2014년  4월  4일 15시</td>
+					<td>금요일</td>
+					<td>경기도 오산시 가수동</td>
+				
+					<td>경상사고</td>
+					<td>0</td>
+					<td>0</td>
+					<td>1</td>
+					<td>0</td>
+					<td>차대차 - 측면직각충돌</td>
+					<td>교차로운행방법위반</td>
+					<td>포장 - 건조</td>
+					<td>맑음</td>
+					<td>교차로 - 교차로안</td>
+					<td>승용</td>
+					<td>여</td>
+					<td>34세</td>
+					<td>상해없음</td>
+					<td>자전거</td>
+					<td>남</td>
+					<td>12세</td>
+					<td>경상</td>
+				
+			</tr>
+		
+			<tr>
+					<td class="format-text-excel">2014040500100051</td>
+					<td>2014년  4월  5일 02시</td>
+					<td>토요일</td>
+					<td>경기도 오산시 내삼미동</td>
+				
+					<td>경상사고</td>
+					<td>0</td>
+					<td>0</td>
+					<td>7</td>
+					<td>0</td>
+					<td>차대차 - 측면직각충돌</td>
+					<td>안전운전불이행</td>
+					<td>포장 - 건조</td>
+					<td>맑음</td>
+					<td>단일로 - 기타</td>
+					<td>승용</td>
+					<td>남</td>
+					<td>38세</td>
+					<td>상해없음</td>
+					<td>승용</td>
+					<td>남</td>
+					<td>45세</td>
+					<td>경상</td>
+				
+			</tr>
+		
+			<tr>
+					<td class="format-text-excel">2014041600100346</td>
+					<td>2014년  4월 16일 16시</td>
+					<td>수요일</td>
+					<td>경기도 오산시 수청동</td>
+				
+					<td>경상사고</td>
+					<td>0</td>
+					<td>0</td>
+					<td>1</td>
+					<td>0</td>
+					<td>차대사람 - 횡단중</td>
+					<td>보행자보호의무위반</td>
+					<td>포장 - 건조</td>
+					<td>맑음</td>
+					<td>단일로 - 기타</td>
+					<td>승용</td>
+					<td>남</td>
+					<td>51세</td>
+					<td>상해없음</td>
+					<td>보행자</td>
+					<td>여</td>
+					<td>4세</td>
+					<td>경상</td>
+				
+			</tr>
+		
+			<tr>
+					<td class="format-text-excel">2014041900100171</td>
+					<td>2014년  4월 19일 10시</td>
+					<td>토요일</td>
+					<td>경기도 오산시 원동</td>
+				
+					<td>경상사고</td>
+					<td>0</td>
+					<td>0</td>
+					<td>2</td>
+					<td>0</td>
+					<td>차대차 - 측면직각충돌</td>
+					<td>안전운전불이행</td>
+					<td>포장 - 건조</td>
+					<td>맑음</td>
+					<td>교차로 - 교차로안</td>
+					<td>승용</td>
+					<td>남</td>
+					<td>33세</td>
+					<td>상해없음</td>
+					<td>승용</td>
+					<td>여</td>
+					<td>32세</td>
+					<td>경상</td>
+				
+			</tr>
+		
+			<tr>
+					<td class="format-text-excel">2014041900100198</td>
+					<td>2014년  4월 19일 11시</td>
+					<td>토요일</td>
+					<td>경기도 오산시 부산동</td>
+				
+					<td>중상사고</td>
+					<td>0</td>
+					<td>2</td>
+					<td>5</td>
+					<td>0</td>
+					<td>차대차 - 추돌 - 주정차중</td>
+					<td>안전운전불이행</td>
+					<td>포장 - 건조</td>
+					<td>맑음</td>
+					<td>단일로 - 기타</td>
+					<td>승합</td>
+					<td>남</td>
+					<td>58세</td>
+					<td>상해없음</td>
+					<td>승용</td>
+					<td>남</td>
+					<td>31세</td>
+					<td>중상</td>
+				
+			</tr>
+		
+			<tr>
+					<td class="format-text-excel">2014042100100345</td>
+					<td>2014년  4월 21일 16시</td>
+					<td>월요일</td>
+					<td>경기도 오산시 부산동</td>
+				
+					<td>중상사고</td>
+					<td>0</td>
+					<td>1</td>
+					<td>0</td>
+					<td>0</td>
+					<td>차대사람 - 기타</td>
+					<td>안전운전불이행</td>
+					<td>포장 - 건조</td>
+					<td>맑음</td>
+					<td>단일로 - 기타</td>
+					<td>승용</td>
+					<td>여</td>
+					<td>44세</td>
+					<td>상해없음</td>
+					<td>보행자</td>
+					<td>여</td>
+					<td>9세</td>
+					<td>중상</td>
+				
+			</tr>
+		
+			<tr>
+					<td class="format-text-excel">2014042600100339</td>
+					<td>2014년  4월 26일 15시</td>
+					<td>토요일</td>
+					<td>경기도 오산시 부산동</td>
+				
+					<td>경상사고</td>
+					<td>0</td>
+					<td>0</td>
+					<td>3</td>
+					<td>0</td>
+					<td>차대차 - 기타</td>
+					<td>교차로운행방법위반</td>
+					<td>포장 - 건조</td>
+					<td>맑음</td>
+					<td>교차로 - 교차로부근</td>
+					<td>화물</td>
+					<td>남</td>
+					<td>53세</td>
+					<td>상해없음</td>
+					<td>승용</td>
+					<td>여</td>
+					<td>36세</td>
+					<td>경상</td>
+				
+			</tr>
+		
+			<tr>
+					<td class="format-text-excel">2014050500100124</td>
+					<td>2014년  5월  5일 09시</td>
+					<td>월요일</td>
+					<td>경기도 오산시 오산동</td>
+				
+					<td>경상사고</td>
+					<td>0</td>
+					<td>0</td>
+					<td>5</td>
+					<td>0</td>
+					<td>차대차 - 기타</td>
+					<td>안전운전불이행</td>
+					<td>포장 - 건조</td>
+					<td>맑음</td>
+					<td>교차로 - 교차로부근</td>
+					<td>승용</td>
+					<td>남</td>
+					<td>27세</td>
+					<td>상해없음</td>
+					<td>승용</td>
+					<td>남</td>
+					<td>47세</td>
+					<td>경상</td>
+				
+			</tr>
+		
+			<tr>
+					<td class="format-text-excel">2014050500100475</td>
+					<td>2014년  5월  5일 20시</td>
+					<td>월요일</td>
+					<td>경기도 오산시 원동</td>
+				
+					<td>중상사고</td>
+					<td>0</td>
+					<td>2</td>
+					<td>3</td>
+					<td>0</td>
+					<td>차대차 - 추돌 - 주정차중</td>
+					<td>안전운전불이행</td>
+					<td>포장 - 건조</td>
+					<td>맑음</td>
+					<td>단일로 - 기타</td>
+					<td>승용</td>
+					<td>남</td>
+					<td>45세</td>
+					<td>상해없음</td>
+					<td>승용</td>
+					<td>여</td>
+					<td>41세</td>
+					<td>경상</td>
+				
+			</tr>
+		
+			<tr>
+					<td class="format-text-excel">2014050800100491</td>
+					<td>2014년  5월  8일 18시</td>
+					<td>목요일</td>
+					<td>경기도 오산시 부산동</td>
+				
+					<td>경상사고</td>
+					<td>0</td>
+					<td>0</td>
+					<td>1</td>
+					<td>0</td>
+					<td>차대차 - 기타</td>
+					<td>안전운전불이행</td>
+					<td>포장 - 건조</td>
+					<td>맑음</td>
+					<td>단일로 - 횡단보도상</td>
+					<td>승용</td>
+					<td>남</td>
+					<td>53세</td>
+					<td>상해없음</td>
+					<td>자전거</td>
+					<td>여</td>
+					<td>11세</td>
+					<td>경상</td>
+				
+			</tr>
+		
+			<tr>
+					<td class="format-text-excel">2014051600100349</td>
+					<td>2014년  5월 16일 15시</td>
+					<td>금요일</td>
+					<td>경기도 오산시 궐동</td>
+				
+					<td>경상사고</td>
+					<td>0</td>
+					<td>0</td>
+					<td>1</td>
+					<td>0</td>
+					<td>차대사람 - 기타</td>
+					<td>안전운전불이행</td>
+					<td>포장 - 건조</td>
+					<td>맑음</td>
+					<td>단일로 - 기타</td>
+					<td>화물</td>
+					<td>남</td>
+					<td>35세</td>
+					<td>상해없음</td>
+					<td>보행자</td>
+					<td>여</td>
+					<td>10세</td>
+					<td>경상</td>
+				
+			</tr>
+		
+			<tr>
+					<td class="format-text-excel">2014052300100619</td>
+					<td>2014년  5월 23일 22시</td>
+					<td>금요일</td>
+					<td>경기도 오산시 양산동</td>
+				
+					<td>경상사고</td>
+					<td>0</td>
+					<td>0</td>
+					<td>1</td>
+					<td>3</td>
+					<td>차대차 - 기타</td>
+					<td>안전운전불이행</td>
+					<td>포장 - 건조</td>
+					<td>맑음</td>
+					<td>교차로 - 교차로안</td>
+					<td>승용</td>
+					<td>남</td>
+					<td>37세</td>
+					<td>상해없음</td>
+					<td>승용</td>
+					<td>남</td>
+					<td>49세</td>
+					<td>부상신고</td>
+				
+			</tr>
+		
+			<tr>
+					<td class="format-text-excel">2014052700100408</td>
+					<td>2014년  5월 27일 16시</td>
+					<td>화요일</td>
+					<td>경기도 오산시 갈곶동</td>
+				
+					<td>경상사고</td>
+					<td>0</td>
+					<td>0</td>
+					<td>1</td>
+					<td>0</td>
+					<td>차대차 - 기타</td>
+					<td>안전운전불이행</td>
+					<td>포장 - 건조</td>
+					<td>맑음</td>
+					<td>단일로 - 기타</td>
+					<td>자전거</td>
+					<td>남</td>
+					<td>6세</td>
+					<td>경상</td>
+					<td>승합</td>
+					<td>남</td>
+					<td>52세</td>
+					<td>상해없음</td>
+				
+			</tr>
+		
+			<tr>
+					<td class="format-text-excel">2014052700100501</td>
+					<td>2014년  5월 27일 18시</td>
+					<td>화요일</td>
+					<td>경기도 오산시 궐동</td>
+				
+					<td>경상사고</td>
+					<td>0</td>
+					<td>0</td>
+					<td>1</td>
+					<td>0</td>
+					<td>차대차 - 측면직각충돌</td>
+					<td>안전운전불이행</td>
+					<td>포장 - 건조</td>
+					<td>맑음</td>
+					<td>교차로 - 교차로안</td>
+					<td>승용</td>
+					<td>남</td>
+					<td>53세</td>
+					<td>상해없음</td>
+					<td>자전거</td>
+					<td>남</td>
+					<td>12세</td>
+					<td>경상</td>
+				
+			</tr>
+		
+			<tr>
+					<td class="format-text-excel">2014052900100558</td>
+					<td>2014년  5월 29일 20시</td>
+					<td>목요일</td>
+					<td>경기도 오산시 오산동</td>
+				
+					<td>경상사고</td>
+					<td>0</td>
+					<td>0</td>
+					<td>1</td>
+					<td>0</td>
+					<td>차대차 - 측면직각충돌</td>
+					<td>안전운전불이행</td>
+					<td>포장 - 건조</td>
+					<td>맑음</td>
+					<td>교차로 - 교차로안</td>
+					<td>승용</td>
+					<td>남</td>
+					<td>38세</td>
+					<td>상해없음</td>
+					<td>자전거</td>
+					<td>남</td>
+					<td>6세</td>
+					<td>경상</td>
+				
+			</tr>
+		
+			<tr>
+					<td class="format-text-excel">2014053000100424</td>
+					<td>2014년  5월 30일 16시</td>
+					<td>금요일</td>
+					<td>경기도 오산시 원동</td>
+				
+					<td>경상사고</td>
+					<td>0</td>
+					<td>0</td>
+					<td>2</td>
+					<td>0</td>
+					<td>차대차 - 추돌 - 주정차중</td>
+					<td>안전운전불이행</td>
+					<td>포장 - 건조</td>
+					<td>맑음</td>
+					<td>교차로 - 교차로부근</td>
+					<td>승용</td>
+					<td>남</td>
+					<td>26세</td>
+					<td>상해없음</td>
+					<td>승용</td>
+					<td>여</td>
+					<td>32세</td>
+					<td>경상</td>
+				
+			</tr>
+		
+			<tr>
+					<td class="format-text-excel">2014060300100596</td>
+					<td>2014년  6월  3일 21시</td>
+					<td>화요일</td>
+					<td>경기도 오산시 부산동</td>
+				
+					<td>경상사고</td>
+					<td>0</td>
+					<td>0</td>
+					<td>4</td>
+					<td>0</td>
+					<td>차대차 - 추돌 - 주정차중</td>
+					<td>안전운전불이행</td>
+					<td>포장 - 습기</td>
+					<td>비</td>
+					<td>단일로 - 기타</td>
+					<td>승용</td>
+					<td>남</td>
+					<td>54세</td>
+					<td>상해없음</td>
+					<td>승용</td>
+					<td>여</td>
+					<td>33세</td>
+					<td>경상</td>
+				
+			</tr>
+		
+			<tr>
+					<td class="format-text-excel">2014060900100488</td>
+					<td>2014년  6월  9일 19시</td>
+					<td>월요일</td>
+					<td>경기도 오산시 원동</td>
+				
+					<td>경상사고</td>
+					<td>0</td>
+					<td>0</td>
+					<td>1</td>
+					<td>0</td>
+					<td>차대차 - 기타</td>
+					<td>안전운전불이행</td>
+					<td>포장 - 건조</td>
+					<td>맑음</td>
+					<td>단일로 - 기타</td>
+					<td>승용</td>
+					<td>남</td>
+					<td>55세</td>
+					<td>상해없음</td>
+					<td>자전거</td>
+					<td>남</td>
+					<td>10세</td>
+					<td>경상</td>
+				
+			</tr>
+		
+			<tr>
+					<td class="format-text-excel">2014061300100119</td>
+					<td>2014년  6월 13일 08시</td>
+					<td>금요일</td>
+					<td>경기도 오산시 가수동</td>
+				
+					<td>경상사고</td>
+					<td>0</td>
+					<td>0</td>
+					<td>1</td>
+					<td>0</td>
+					<td>차대사람 - 기타</td>
+					<td>보행자보호의무위반</td>
+					<td>포장 - 건조</td>
+					<td>맑음</td>
+					<td>단일로 - 기타</td>
+					<td>승용</td>
+					<td>남</td>
+					<td>47세</td>
+					<td>상해없음</td>
+					<td>보행자</td>
+					<td>남</td>
+					<td>4세</td>
+					<td>경상</td>
+				
+			</tr>
+		
+			<tr>
+					<td class="format-text-excel">2014061300100394</td>
+					<td>2014년  6월 13일 17시</td>
+					<td>금요일</td>
+					<td>경기도 오산시 수청동</td>
+				
+					<td>부상신고사고</td>
+					<td>0</td>
+					<td>0</td>
+					<td>0</td>
+					<td>1</td>
+					<td>차대사람 - 차도통행중</td>
+					<td>안전운전불이행</td>
+					<td>포장 - 건조</td>
+					<td>맑음</td>
+					<td>단일로 - 기타</td>
+					<td>승용</td>
+					<td>남</td>
+					<td>37세</td>
+					<td>상해없음</td>
+					<td>보행자</td>
+					<td>남</td>
+					<td>9세</td>
+					<td>부상신고</td>
+				
+			</tr>
+		
+			<tr>
+					<td class="format-text-excel">2014061400100372</td>
+					<td>2014년  6월 14일 14시</td>
+					<td>토요일</td>
+					<td>경기도 오산시 가수동</td>
+				
+					<td>중상사고</td>
+					<td>0</td>
+					<td>1</td>
+					<td>1</td>
+					<td>0</td>
+					<td>차대차 - 측면직각충돌</td>
+					<td>차로위반</td>
+					<td>포장 - 건조</td>
+					<td>맑음</td>
+					<td>교차로 - 교차로부근</td>
+					<td>승용</td>
+					<td>남</td>
+					<td>36세</td>
+					<td>상해없음</td>
+					<td>승용</td>
+					<td>여</td>
+					<td>38세</td>
+					<td>중상</td>
+				
+			</tr>
+		
+			<tr>
+					<td class="format-text-excel">2014061500100155</td>
+					<td>2014년  6월 15일 10시</td>
+					<td>일요일</td>
+					<td>경기도 오산시 원동</td>
+				
+					<td>중상사고</td>
+					<td>0</td>
+					<td>1</td>
+					<td>2</td>
+					<td>0</td>
+					<td>차대차 - 추돌 - 주정차중</td>
+					<td>안전운전불이행</td>
+					<td>포장 - 건조</td>
+					<td>맑음</td>
+					<td>교차로 - 교차로안</td>
+					<td>승용</td>
+					<td>남</td>
+					<td>37세</td>
+					<td>상해없음</td>
+					<td>승용</td>
+					<td>남</td>
+					<td>42세</td>
+					<td>경상</td>
+				
+			</tr>
+		
+			<tr>
+					<td class="format-text-excel">2014062600100473</td>
+					<td>2014년  6월 26일 19시</td>
+					<td>목요일</td>
+					<td>경기도 오산시 청학동</td>
+				
+					<td>경상사고</td>
+					<td>0</td>
+					<td>0</td>
+					<td>1</td>
+					<td>0</td>
+					<td>차대사람 - 기타</td>
+					<td>안전운전불이행</td>
+					<td>포장 - 건조</td>
+					<td>맑음</td>
+					<td>교차로 - 교차로부근</td>
+					<td>승용</td>
+					<td>남</td>
+					<td>32세</td>
+					<td>상해없음</td>
+					<td>보행자</td>
+					<td>남</td>
+					<td>10세</td>
+					<td>경상</td>
+				
+			</tr>
+		
+			<tr>
+					<td class="format-text-excel">2014062700100441</td>
+					<td>2014년  6월 27일 18시</td>
+					<td>금요일</td>
+					<td>경기도 오산시 금암동</td>
+				
+					<td>중상사고</td>
+					<td>0</td>
+					<td>1</td>
+					<td>0</td>
+					<td>0</td>
+					<td>차대사람 - 기타</td>
+					<td>안전운전불이행</td>
+					<td>포장 - 건조</td>
+					<td>맑음</td>
+					<td>단일로 - 기타</td>
+					<td>승용</td>
+					<td>여</td>
+					<td>38세</td>
+					<td>상해없음</td>
+					<td>보행자</td>
+					<td>남</td>
+					<td>5세</td>
+					<td>중상</td>
+				
+			</tr>
+		
+			<tr>
+					<td class="format-text-excel">2014071100100406</td>
+					<td>2014년  7월 11일 16시</td>
+					<td>금요일</td>
+					<td>경기도 오산시 오산동</td>
+				
+					<td>중상사고</td>
+					<td>0</td>
+					<td>2</td>
+					<td>4</td>
+					<td>0</td>
+					<td>차대차 - 추돌 - 진행중</td>
+					<td>안전운전불이행</td>
+					<td>포장 - 건조</td>
+					<td>맑음</td>
+					<td>단일로 - 기타</td>
+					<td>승합</td>
+					<td>남</td>
+					<td>60세</td>
+					<td>상해없음</td>
+					<td>승용</td>
+					<td>남</td>
+					<td>40세</td>
+					<td>중상</td>
+				
+			</tr>
+		
+			<tr>
+					<td class="format-text-excel">2014071300100242</td>
+					<td>2014년  7월 13일 13시</td>
+					<td>일요일</td>
+					<td>경기도 오산시 누읍동</td>
+				
+					<td>중상사고</td>
+					<td>0</td>
+					<td>1</td>
+					<td>0</td>
+					<td>0</td>
+					<td>차대사람 - 기타</td>
+					<td>보행자보호의무위반</td>
+					<td>포장 - 건조</td>
+					<td>맑음</td>
+					<td>단일로 - 기타</td>
+					<td>이륜</td>
+					<td>남</td>
+					<td>33세</td>
+					<td>상해없음</td>
+					<td>보행자</td>
+					<td>남</td>
+					<td>8세</td>
+					<td>중상</td>
+				
+			</tr>
+		
+			<tr>
+					<td class="format-text-excel">2014071600100498</td>
+					<td>2014년  7월 16일 19시</td>
+					<td>수요일</td>
+					<td>경기도 오산시 외삼미동</td>
+				
+					<td>중상사고</td>
+					<td>0</td>
+					<td>1</td>
+					<td>0</td>
+					<td>0</td>
+					<td>차대사람 - 횡단중</td>
+					<td>안전운전불이행</td>
+					<td>포장 - 건조</td>
+					<td>맑음</td>
+					<td>단일로 - 기타</td>
+					<td>승용</td>
+					<td>남</td>
+					<td>48세</td>
+					<td>상해없음</td>
+					<td>보행자</td>
+					<td>남</td>
+					<td>7세</td>
+					<td>중상</td>
+				
+			</tr>
+		
+			<tr>
+					<td class="format-text-excel">2014072000100371</td>
+					<td>2014년  7월 20일 18시</td>
+					<td>일요일</td>
+					<td>경기도 오산시 원동</td>
+				
+					<td>경상사고</td>
+					<td>0</td>
+					<td>0</td>
+					<td>2</td>
+					<td>0</td>
+					<td>차대차 - 측면직각충돌</td>
+					<td>신호위반</td>
+					<td>포장 - 건조</td>
+					<td>맑음</td>
+					<td>교차로 - 교차로안</td>
+					<td>승용</td>
+					<td>남</td>
+					<td>38세</td>
+					<td>상해없음</td>
+					<td>승용</td>
+					<td>여</td>
+					<td>33세</td>
+					<td>경상</td>
+				
+			</tr>
+		
+			<tr>
+					<td class="format-text-excel">2014072300100296</td>
+					<td>2014년  7월 23일 14시</td>
+					<td>수요일</td>
+					<td>경기도 오산시 오산동</td>
+				
+					<td>경상사고</td>
+					<td>0</td>
+					<td>0</td>
+					<td>1</td>
+					<td>0</td>
+					<td>차대사람 - 횡단중</td>
+					<td>보행자보호의무위반</td>
+					<td>포장 - 습기</td>
+					<td>흐림</td>
+					<td>교차로 - 교차로안</td>
+					<td>이륜</td>
+					<td>남</td>
+					<td>55세</td>
+					<td>상해없음</td>
+					<td>보행자</td>
+					<td>여</td>
+					<td>7세</td>
+					<td>경상</td>
+				
+			</tr>
+		
+			<tr>
+					<td class="format-text-excel">2014080200100271</td>
+					<td>2014년  8월  2일 12시</td>
+					<td>토요일</td>
+					<td>경기도 오산시 금암동</td>
+				
+					<td>경상사고</td>
+					<td>0</td>
+					<td>0</td>
+					<td>2</td>
+					<td>0</td>
+					<td>차대사람 - 기타</td>
+					<td>안전운전불이행</td>
+					<td>비포장 - 건조</td>
+					<td>맑음</td>
+					<td>단일로 - 기타</td>
+					<td>승용</td>
+					<td>여</td>
+					<td>42세</td>
+					<td>상해없음</td>
+					<td>보행자</td>
+					<td>여</td>
+					<td>36세</td>
+					<td>경상</td>
+				
+			</tr>
+		
+			<tr>
+					<td class="format-text-excel">2014080600100224</td>
+					<td>2014년  8월  6일 12시</td>
+					<td>수요일</td>
+					<td>경기도 오산시 오산동</td>
+				
+					<td>경상사고</td>
+					<td>0</td>
+					<td>0</td>
+					<td>1</td>
+					<td>0</td>
+					<td>차대사람 - 기타</td>
+					<td>안전운전불이행</td>
+					<td>포장 - 건조</td>
+					<td>맑음</td>
+					<td>교차로 - 교차로부근</td>
+					<td>승용</td>
+					<td>남</td>
+					<td>72세</td>
+					<td>상해없음</td>
+					<td>보행자</td>
+					<td>여</td>
+					<td>9세</td>
+					<td>경상</td>
+				
+			</tr>
+		
+			<tr>
+					<td class="format-text-excel">2014081300100299</td>
+					<td>2014년  8월 13일 14시</td>
+					<td>수요일</td>
+					<td>경기도 오산시 부산동</td>
+				
+					<td>경상사고</td>
+					<td>0</td>
+					<td>0</td>
+					<td>3</td>
+					<td>0</td>
+					<td>차대차 - 측면직각충돌</td>
+					<td>안전운전불이행</td>
+					<td>포장 - 건조</td>
+					<td>맑음</td>
+					<td>단일로 - 기타</td>
+					<td>건설기계</td>
+					<td>남</td>
+					<td>42세</td>
+					<td>상해없음</td>
+					<td>건설기계</td>
+					<td>남</td>
+					<td>37세</td>
+					<td>상해없음</td>
+				
+			</tr>
+		
+			<tr>
+					<td class="format-text-excel">2014081700100285</td>
+					<td>2014년  8월 17일 16시</td>
+					<td>일요일</td>
+					<td>경기도 오산시 원동</td>
+				
+					<td>중상사고</td>
+					<td>0</td>
+					<td>2</td>
+					<td>2</td>
+					<td>0</td>
+					<td>차대차 - 추돌 - 진행중</td>
+					<td>안전운전불이행</td>
+					<td>포장 - 건조</td>
+					<td>맑음</td>
+					<td>단일로 - 기타</td>
+					<td>승용</td>
+					<td>남</td>
+					<td>57세</td>
+					<td>상해없음</td>
+					<td>승용</td>
+					<td>남</td>
+					<td>41세</td>
+					<td>중상</td>
+				
+			</tr>
+		
+			<tr>
+					<td class="format-text-excel">2014082800100422</td>
+					<td>2014년  8월 28일 17시</td>
+					<td>목요일</td>
+					<td>경기도 오산시 누읍동</td>
+				
+					<td>중상사고</td>
+					<td>0</td>
+					<td>7</td>
+					<td>6</td>
+					<td>0</td>
+					<td>차대차 - 추돌 - 진행중</td>
+					<td>안전운전불이행</td>
+					<td>포장 - 건조</td>
+					<td>맑음</td>
+					<td>단일로 - 기타</td>
+					<td>승합</td>
+					<td>남</td>
+					<td>61세</td>
+					<td>상해없음</td>
+					<td>승합</td>
+					<td>남</td>
+					<td>52세</td>
+					<td>상해없음</td>
+				
+			</tr>
+		
+			<tr>
+					<td class="format-text-excel">2014090400100142</td>
+					<td>2014년  9월  4일 08시</td>
+					<td>목요일</td>
+					<td>경기도 오산시 가수동</td>
+				
+					<td>경상사고</td>
+					<td>0</td>
+					<td>0</td>
+					<td>1</td>
+					<td>0</td>
+					<td>차대사람 - 보도통행중</td>
+					<td>신호위반</td>
+					<td>포장 - 건조</td>
+					<td>맑음</td>
+					<td>교차로 - 교차로부근</td>
+					<td>승용</td>
+					<td>남</td>
+					<td>35세</td>
+					<td>상해없음</td>
+					<td>보행자</td>
+					<td>남</td>
+					<td>12세</td>
+					<td>경상</td>
+				
+			</tr>
+		
+			<tr>
+					<td class="format-text-excel">2014090900100024</td>
+					<td>2014년  9월  9일 02시</td>
+					<td>화요일</td>
+					<td>경기도 오산시 오산동</td>
+				
+					<td>중상사고</td>
+					<td>0</td>
+					<td>2</td>
+					<td>10</td>
+					<td>0</td>
+					<td>차대차 - 측면직각충돌</td>
+					<td>안전운전불이행</td>
+					<td>포장 - 건조</td>
+					<td>맑음</td>
+					<td>단일로 - 기타</td>
+					<td>승용</td>
+					<td>남</td>
+					<td>30세</td>
+					<td>상해없음</td>
+					<td>승용</td>
+					<td>여</td>
+					<td>46세</td>
+					<td>중상</td>
+				
+			</tr>
+		
+			<tr>
+					<td class="format-text-excel">2014091700100364</td>
+					<td>2014년  9월 17일 16시</td>
+					<td>수요일</td>
+					<td>경기도 오산시 수청동</td>
+				
+					<td>경상사고</td>
+					<td>0</td>
+					<td>0</td>
+					<td>1</td>
+					<td>0</td>
+					<td>차대차 - 측면직각충돌</td>
+					<td>직진우회전진행방해</td>
+					<td>포장 - 건조</td>
+					<td>맑음</td>
+					<td>교차로 - 교차로안</td>
+					<td>승용</td>
+					<td>여</td>
+					<td>47세</td>
+					<td>상해없음</td>
+					<td>자전거</td>
+					<td>여</td>
+					<td>7세</td>
+					<td>경상</td>
+				
+			</tr>
+		
+			<tr>
+					<td class="format-text-excel">2014092200100344</td>
+					<td>2014년  9월 22일 15시</td>
+					<td>월요일</td>
+					<td>경기도 오산시 원동</td>
+				
+					<td>경상사고</td>
+					<td>0</td>
+					<td>0</td>
+					<td>1</td>
+					<td>2</td>
+					<td>차대차 - 기타</td>
+					<td>차로위반</td>
+					<td>포장 - 건조</td>
+					<td>맑음</td>
+					<td>교차로 - 교차로부근</td>
+					<td>건설기계</td>
+					<td>남</td>
+					<td>47세</td>
+					<td>상해없음</td>
+					<td>승용</td>
+					<td>여</td>
+					<td>38세</td>
+					<td>경상</td>
+				
+			</tr>
+		
+			<tr>
+					<td class="format-text-excel">2014092600100534</td>
+					<td>2014년  9월 26일 19시</td>
+					<td>금요일</td>
+					<td>경기도 오산시 원동</td>
+				
+					<td>경상사고</td>
+					<td>0</td>
+					<td>0</td>
+					<td>1</td>
+					<td>0</td>
+					<td>차대사람 - 횡단중</td>
+					<td>안전운전불이행</td>
+					<td>포장 - 건조</td>
+					<td>맑음</td>
+					<td>교차로 - 교차로안</td>
+					<td>이륜</td>
+					<td>남</td>
+					<td>35세</td>
+					<td>상해없음</td>
+					<td>보행자</td>
+					<td>남</td>
+					<td>10세</td>
+					<td>경상</td>
+				
+			</tr>
+		
+			<tr>
+					<td class="format-text-excel">2014100300100267</td>
+					<td>2014년 10월  3일 12시</td>
+					<td>금요일</td>
+					<td>경기도 오산시 부산동</td>
+				
+					<td>중상사고</td>
+					<td>0</td>
+					<td>2</td>
+					<td>9</td>
+					<td>0</td>
+					<td>차대차 - 기타</td>
+					<td>안전운전불이행</td>
+					<td>포장 - 건조</td>
+					<td>맑음</td>
+					<td>단일로 - 기타</td>
+					<td>승합</td>
+					<td>남</td>
+					<td>55세</td>
+					<td>상해없음</td>
+					<td>승용</td>
+					<td>남</td>
+					<td>42세</td>
+					<td>상해없음</td>
+				
+			</tr>
+		
+			<tr>
+					<td class="format-text-excel">2014101300100385</td>
+					<td>2014년 10월 13일 14시</td>
+					<td>월요일</td>
+					<td>경기도 오산시 원동</td>
+				
+					<td>중상사고</td>
+					<td>0</td>
+					<td>1</td>
+					<td>0</td>
+					<td>0</td>
+					<td>차대사람 - 기타</td>
+					<td>안전운전불이행</td>
+					<td>포장 - 건조</td>
+					<td>맑음</td>
+					<td>교차로 - 교차로안</td>
+					<td>화물</td>
+					<td>남</td>
+					<td>63세</td>
+					<td>상해없음</td>
+					<td>보행자</td>
+					<td>남</td>
+					<td>7세</td>
+					<td>중상</td>
+				
+			</tr>
+		
+			<tr>
+					<td class="format-text-excel">2014101300100655</td>
+					<td>2014년 10월 13일 21시</td>
+					<td>월요일</td>
+					<td>경기도 오산시 원동</td>
+				
+					<td>경상사고</td>
+					<td>0</td>
+					<td>0</td>
+					<td>3</td>
+					<td>1</td>
+					<td>차대차 - 추돌 - 진행중</td>
+					<td>안전운전불이행</td>
+					<td>포장 - 건조</td>
+					<td>맑음</td>
+					<td>단일로 - 기타</td>
+					<td>승용</td>
+					<td>남</td>
+					<td>36세</td>
+					<td>상해없음</td>
+					<td>승용</td>
+					<td>여</td>
+					<td>29세</td>
+					<td>경상</td>
+				
+			</tr>
+		
+			<tr>
+					<td class="format-text-excel">2014101400100405</td>
+					<td>2014년 10월 14일 16시</td>
+					<td>화요일</td>
+					<td>경기도 오산시 은계동</td>
+				
+					<td>경상사고</td>
+					<td>0</td>
+					<td>0</td>
+					<td>3</td>
+					<td>0</td>
+					<td>차대차 - 기타</td>
+					<td>안전운전불이행</td>
+					<td>포장 - 건조</td>
+					<td>맑음</td>
+					<td>단일로 - 기타</td>
+					<td>승용</td>
+					<td>여</td>
+					<td>30세</td>
+					<td>상해없음</td>
+					<td>승용</td>
+					<td>여</td>
+					<td>31세</td>
+					<td>경상</td>
+				
+			</tr>
+		
+			<tr>
+					<td class="format-text-excel">2014101600100334</td>
+					<td>2014년 10월 16일 14시</td>
+					<td>목요일</td>
+					<td>경기도 오산시 금암동</td>
+				
+					<td>경상사고</td>
+					<td>0</td>
+					<td>0</td>
+					<td>1</td>
+					<td>0</td>
+					<td>차대차 - 측면직각충돌</td>
+					<td>안전운전불이행</td>
+					<td>포장 - 건조</td>
+					<td>맑음</td>
+					<td>교차로 - 교차로부근</td>
+					<td>자전거</td>
+					<td>여</td>
+					<td>7세</td>
+					<td>경상</td>
+					<td>승용</td>
+					<td>여</td>
+					<td>35세</td>
+					<td>상해없음</td>
+				
+			</tr>
+		
+			<tr>
+					<td class="format-text-excel">2014102400100553</td>
+					<td>2014년 10월 24일 19시</td>
+					<td>금요일</td>
+					<td>경기도 오산시 금암동</td>
+				
+					<td>경상사고</td>
+					<td>0</td>
+					<td>0</td>
+					<td>3</td>
+					<td>0</td>
+					<td>차대차 - 측면직각충돌</td>
+					<td>신호위반</td>
+					<td>포장 - 건조</td>
+					<td>맑음</td>
+					<td>교차로 - 교차로안</td>
+					<td>화물</td>
+					<td>여</td>
+					<td>28세</td>
+					<td>상해없음</td>
+					<td>승합</td>
+					<td>남</td>
+					<td>26세</td>
+					<td>경상</td>
+				
+			</tr>
+		
+			<tr>
+					<td class="format-text-excel">2014102700100459</td>
+					<td>2014년 10월 27일 17시</td>
+					<td>월요일</td>
+					<td>경기도 오산시 궐동</td>
+				
+					<td>경상사고</td>
+					<td>0</td>
+					<td>0</td>
+					<td>1</td>
+					<td>0</td>
+					<td>차량단독 - 기타</td>
+					<td>안전운전불이행</td>
+					<td>포장 - 건조</td>
+					<td>맑음</td>
+					<td>단일로 - 기타</td>
+					<td>승합</td>
+					<td>남</td>
+					<td>55세</td>
+					<td>상해없음</td>
+					<td></td>
+					<td></td>
+					<td></td>
+					<td></td>
+				
+			</tr>
+		
+			<tr>
+					<td class="format-text-excel">2014110100100646</td>
+					<td>2014년 11월  1일 21시</td>
+					<td>토요일</td>
+					<td>경기도 오산시 오산동</td>
+				
+					<td>부상신고사고</td>
+					<td>0</td>
+					<td>0</td>
+					<td>0</td>
+					<td>2</td>
+					<td>차대차 - 측면직각충돌</td>
+					<td>안전운전불이행</td>
+					<td>포장 - 건조</td>
+					<td>맑음</td>
+					<td>교차로 - 교차로안</td>
+					<td>승용</td>
+					<td>남</td>
+					<td>55세</td>
+					<td>상해없음</td>
+					<td>승용</td>
+					<td>여</td>
+					<td>42세</td>
+					<td>상해없음</td>
+				
+			</tr>
+		
+			<tr>
+					<td class="format-text-excel">2014110700100449</td>
+					<td>2014년 11월  7일 17시</td>
+					<td>금요일</td>
+					<td>경기도 오산시 세교동</td>
+				
+					<td>경상사고</td>
+					<td>0</td>
+					<td>0</td>
+					<td>2</td>
+					<td>1</td>
+					<td>차대차 - 기타</td>
+					<td>기타</td>
+					<td>포장 - 건조</td>
+					<td>맑음</td>
+					<td>단일로 - 기타</td>
+					<td>승용</td>
+					<td>여</td>
+					<td>54세</td>
+					<td>상해없음</td>
+					<td>승용</td>
+					<td>여</td>
+					<td>34세</td>
+					<td>경상</td>
+				
+			</tr>
+		
+			<tr>
+					<td class="format-text-excel">2014111800100277</td>
+					<td>2014년 11월 18일 13시</td>
+					<td>화요일</td>
+					<td>경기도 오산시 오산동</td>
+				
+					<td>중상사고</td>
+					<td>0</td>
+					<td>1</td>
+					<td>0</td>
+					<td>0</td>
+					<td>차대사람 - 기타</td>
+					<td>신호위반</td>
+					<td>포장 - 건조</td>
+					<td>맑음</td>
+					<td>단일로 - 기타</td>
+					<td>승용</td>
+					<td>여</td>
+					<td>56세</td>
+					<td>상해없음</td>
+					<td>보행자</td>
+					<td>남</td>
+					<td>8세</td>
+					<td>중상</td>
+				
+			</tr>
+		
+			<tr>
+					<td class="format-text-excel">2014112000100336</td>
+					<td>2014년 11월 20일 14시</td>
+					<td>목요일</td>
+					<td>경기도 오산시 세교동</td>
+				
+					<td>경상사고</td>
+					<td>0</td>
+					<td>0</td>
+					<td>1</td>
+					<td>0</td>
+					<td>차대차 - 측면직각충돌</td>
+					<td>신호위반</td>
+					<td>포장 - 건조</td>
+					<td>맑음</td>
+					<td>교차로 - 교차로부근</td>
+					<td>승용</td>
+					<td>여</td>
+					<td>52세</td>
+					<td>상해없음</td>
+					<td>자전거</td>
+					<td>남</td>
+					<td>7세</td>
+					<td>경상</td>
+				
+			</tr>
+		
+			<tr>
+					<td class="format-text-excel">2014121100100349</td>
+					<td>2014년 12월 11일 16시</td>
+					<td>목요일</td>
+					<td>경기도 오산시 수청동</td>
+				
+					<td>중상사고</td>
+					<td>0</td>
+					<td>3</td>
+					<td>2</td>
+					<td>0</td>
+					<td>차대차 - 측면직각충돌</td>
+					<td>안전운전불이행</td>
+					<td>포장 - 건조</td>
+					<td>맑음</td>
+					<td>교차로 - 교차로안</td>
+					<td>승용</td>
+					<td>여</td>
+					<td>65세</td>
+					<td>상해없음</td>
+					<td>승용</td>
+					<td>남</td>
+					<td>37세</td>
+					<td>중상</td>
+				
+			</tr>
+		
+			<tr>
+					<td class="format-text-excel">2014121200100313</td>
+					<td>2014년 12월 12일 14시</td>
+					<td>금요일</td>
+					<td>경기도 오산시 궐동</td>
+				
+					<td>경상사고</td>
+					<td>0</td>
+					<td>0</td>
+					<td>1</td>
+					<td>0</td>
+					<td>차대사람 - 기타</td>
+					<td>안전운전불이행</td>
+					<td>포장 - 건조</td>
+					<td>맑음</td>
+					<td>교차로 - 교차로안</td>
+					<td>승합</td>
+					<td>남</td>
+					<td>46세</td>
+					<td>상해없음</td>
+					<td>보행자</td>
+					<td>여</td>
+					<td>10세</td>
+					<td>경상</td>
+				
+			</tr>
+		
+			<tr>
+					<td class="format-text-excel">2014121900100355</td>
+					<td>2014년 12월 19일 17시</td>
+					<td>금요일</td>
+					<td>경기도 오산시 갈곶동</td>
+				
+					<td>중상사고</td>
+					<td>0</td>
+					<td>2</td>
+					<td>2</td>
+					<td>0</td>
+					<td>차대차 - 추돌 - 진행중</td>
+					<td>안전운전불이행</td>
+					<td>포장 - 건조</td>
+					<td>맑음</td>
+					<td>단일로 - 기타</td>
+					<td>승합</td>
+					<td>여</td>
+					<td>39세</td>
+					<td>경상</td>
+					<td>화물</td>
+					<td>여</td>
+					<td>46세</td>
+					<td>중상</td>
+				
+			</tr>
+		
+			<tr>
+					<td class="format-text-excel">2014122100100100</td>
+					<td>2014년 12월 21일 08시</td>
+					<td>일요일</td>
+					<td>경기도 오산시 갈곶동</td>
+				
+					<td>경상사고</td>
+					<td>0</td>
+					<td>0</td>
+					<td>2</td>
+					<td>0</td>
+					<td>차량단독 - 공작물충돌</td>
+					<td>안전운전불이행</td>
+					<td>포장 - 결빙</td>
+					<td>맑음</td>
+					<td>교차로 - 교차로안</td>
+					<td>승용</td>
+					<td>남</td>
+					<td>41세</td>
+					<td>경상</td>
+					<td></td>
+					<td></td>
+					<td></td>
+					<td></td>
+				
+			</tr>
+		
+			<tr>
+					<td class="format-text-excel">2014122500100178</td>
+					<td>2014년 12월 25일 10시</td>
+					<td>목요일</td>
+					<td>경기도 오산시 수청동</td>
+				
+					<td>중상사고</td>
+					<td>0</td>
+					<td>2</td>
+					<td>2</td>
+					<td>0</td>
+					<td>차대차 - 기타</td>
+					<td>신호위반</td>
+					<td>포장 - 건조</td>
+					<td>맑음</td>
+					<td>교차로 - 교차로안</td>
+					<td>승용</td>
+					<td>남</td>
+					<td>27세</td>
+					<td>상해없음</td>
+					<td>승용</td>
+					<td>남</td>
+					<td>42세</td>
+					<td>경상</td>
+				
+			</tr>
+		
+			<tr>
+					<td class="format-text-excel">2015011700100250</td>
+					<td>2015년  1월 17일 11시</td>
+					<td>토요일</td>
+					<td>경기도 오산시 원동</td>
+				
+					<td>경상사고</td>
+					<td>0</td>
+					<td>0</td>
+					<td>5</td>
+					<td>3</td>
+					<td>차대차 - 추돌 - 주정차중</td>
+					<td>안전운전불이행</td>
+					<td>포장 - 건조</td>
+					<td>맑음</td>
+					<td>단일로 - 기타</td>
+					<td>승용</td>
+					<td>남</td>
+					<td>24세</td>
+					<td>상해없음</td>
+					<td>승용</td>
+					<td>여</td>
+					<td>54세</td>
+					<td>상해없음</td>
+				
+			</tr>
+		
+			<tr>
+					<td class="format-text-excel">2015020200100307</td>
+					<td>2015년  2월  2일 17시</td>
+					<td>월요일</td>
+					<td>경기도 오산시 갈곶동</td>
+				
+					<td>중상사고</td>
+					<td>0</td>
+					<td>1</td>
+					<td>0</td>
+					<td>0</td>
+					<td>차대사람 - 횡단중</td>
+					<td>신호위반</td>
+					<td>포장 - 건조</td>
+					<td>맑음</td>
+					<td>교차로 - 교차로안</td>
+					<td>승용</td>
+					<td>남</td>
+					<td>26세</td>
+					<td>상해없음</td>
+					<td>보행자</td>
+					<td>여</td>
+					<td>10세</td>
+					<td>중상</td>
+				
+			</tr>
+		
+			<tr>
+					<td class="format-text-excel">2015020600100315</td>
+					<td>2015년  2월  6일 15시</td>
+					<td>금요일</td>
+					<td>경기도 오산시 원동</td>
+				
+					<td>중상사고</td>
+					<td>0</td>
+					<td>1</td>
+					<td>0</td>
+					<td>0</td>
+					<td>차대사람 - 횡단중</td>
+					<td>안전운전불이행</td>
+					<td>포장 - 건조</td>
+					<td>맑음</td>
+					<td>교차로 - 교차로안</td>
+					<td>승용</td>
+					<td>여</td>
+					<td>47세</td>
+					<td>상해없음</td>
+					<td>보행자</td>
+					<td>남</td>
+					<td>8세</td>
+					<td>중상</td>
+				
+			</tr>
+		
+			<tr>
+					<td class="format-text-excel">2015021400100230</td>
+					<td>2015년  2월 14일 11시</td>
+					<td>토요일</td>
+					<td>경기도 오산시 누읍동</td>
+				
+					<td>중상사고</td>
+					<td>0</td>
+					<td>1</td>
+					<td>3</td>
+					<td>0</td>
+					<td>차대차 - 정면충돌</td>
+					<td>중앙선침범</td>
+					<td>포장 - 건조</td>
+					<td>맑음</td>
+					<td>교차로 - 교차로부근</td>
+					<td>화물</td>
+					<td>남</td>
+					<td>47세</td>
+					<td>상해없음</td>
+					<td>승용</td>
+					<td>남</td>
+					<td>51세</td>
+					<td>경상</td>
+				
+			</tr>
+		
+			<tr>
+					<td class="format-text-excel">2015022200100240</td>
+					<td>2015년  2월 22일 16시</td>
+					<td>일요일</td>
+					<td>경기도 오산시 세교동</td>
+				
+					<td>중상사고</td>
+					<td>0</td>
+					<td>2</td>
+					<td>5</td>
+					<td>0</td>
+					<td>차대차 - 추돌 - 진행중</td>
+					<td>안전운전불이행</td>
+					<td>포장 - 건조</td>
+					<td>맑음</td>
+					<td>교차로 - 교차로부근</td>
+					<td>승합</td>
+					<td>남</td>
+					<td>43세</td>
+					<td>상해없음</td>
+					<td>승용</td>
+					<td>남</td>
+					<td>32세</td>
+					<td>중상</td>
+				
+			</tr>
+		
+			<tr>
+					<td class="format-text-excel">2015022200100291</td>
+					<td>2015년  2월 22일 18시</td>
+					<td>일요일</td>
+					<td>경기도 오산시 갈곶동</td>
+				
+					<td>경상사고</td>
+					<td>0</td>
+					<td>0</td>
+					<td>4</td>
+					<td>0</td>
+					<td>차대차 - 추돌 - 진행중</td>
+					<td>안전운전불이행</td>
+					<td>포장 - 건조</td>
+					<td>맑음</td>
+					<td>단일로 - 기타</td>
+					<td>승용</td>
+					<td>남</td>
+					<td>58세</td>
+					<td>상해없음</td>
+					<td>승합</td>
+					<td>남</td>
+					<td>46세</td>
+					<td>경상</td>
+				
+			</tr>
+		
+			<tr>
+					<td class="format-text-excel">2015022800100323</td>
+					<td>2015년  2월 28일 16시</td>
+					<td>토요일</td>
+					<td>경기도 오산시 오산동</td>
+				
+					<td>경상사고</td>
+					<td>0</td>
+					<td>0</td>
+					<td>1</td>
+					<td>0</td>
+					<td>차대차 - 추돌 - 진행중</td>
+					<td>안전운전불이행</td>
+					<td>포장 - 건조</td>
+					<td>맑음</td>
+					<td>교차로 - 교차로안</td>
+					<td>승용</td>
+					<td>남</td>
+					<td>33세</td>
+					<td>상해없음</td>
+					<td>자전거</td>
+					<td>남</td>
+					<td>11세</td>
+					<td>경상</td>
+				
+			</tr>
+		
+			<tr>
+					<td class="format-text-excel">2015031400100210</td>
+					<td>2015년  3월 14일 10시</td>
+					<td>토요일</td>
+					<td>경기도 오산시 원동</td>
+				
+					<td>중상사고</td>
+					<td>0</td>
+					<td>1</td>
+					<td>0</td>
+					<td>0</td>
+					<td>차대사람 - 횡단중</td>
+					<td>안전운전불이행</td>
+					<td>포장 - 건조</td>
+					<td>맑음</td>
+					<td>단일로 - 횡단보도상</td>
+					<td>승용</td>
+					<td>여</td>
+					<td>31세</td>
+					<td>상해없음</td>
+					<td>보행자</td>
+					<td>여</td>
+					<td>7세</td>
+					<td>중상</td>
+				
+			</tr>
+		
+			<tr>
+					<td class="format-text-excel">2015031900100438</td>
+					<td>2015년  3월 19일 17시</td>
+					<td>목요일</td>
+					<td>경기도 오산시 가수동</td>
+				
+					<td>중상사고</td>
+					<td>0</td>
+					<td>1</td>
+					<td>0</td>
+					<td>0</td>
+					<td>차대사람 - 기타</td>
+					<td>안전운전불이행</td>
+					<td>포장 - 건조</td>
+					<td>맑음</td>
+					<td>교차로 - 교차로안</td>
+					<td>승합</td>
+					<td>남</td>
+					<td>52세</td>
+					<td>상해없음</td>
+					<td>보행자</td>
+					<td>남</td>
+					<td>12세</td>
+					<td>중상</td>
+				
+			</tr>
+		
+			<tr>
+					<td class="format-text-excel">2015032600100372</td>
+					<td>2015년  3월 26일 15시</td>
+					<td>목요일</td>
+					<td>경기도 오산시 부산동</td>
+				
+					<td>중상사고</td>
+					<td>0</td>
+					<td>1</td>
+					<td>0</td>
+					<td>0</td>
+					<td>차대사람 - 횡단중</td>
+					<td>신호위반</td>
+					<td>포장 - 건조</td>
+					<td>맑음</td>
+					<td>교차로 - 교차로부근</td>
+					<td>승용</td>
+					<td>여</td>
+					<td>41세</td>
+					<td>상해없음</td>
+					<td>보행자</td>
+					<td>남</td>
+					<td>6세</td>
+					<td>중상</td>
+				
+			</tr>
+		
+			<tr>
+					<td class="format-text-excel">2015032900100298</td>
+					<td>2015년  3월 29일 16시</td>
+					<td>일요일</td>
+					<td>경기도 오산시 궐동</td>
+				
+					<td>경상사고</td>
+					<td>0</td>
+					<td>0</td>
+					<td>2</td>
+					<td>0</td>
+					<td>차대차 - 추돌 - 주정차중</td>
+					<td>불법유턴</td>
+					<td>포장 - 건조</td>
+					<td>맑음</td>
+					<td>단일로 - 기타</td>
+					<td>승용</td>
+					<td>남</td>
+					<td>36세</td>
+					<td>상해없음</td>
+					<td>승용</td>
+					<td>남</td>
+					<td>30세</td>
+					<td>기타불명</td>
+				
+			</tr>
+		
+			<tr>
+					<td class="format-text-excel">2015040400100409</td>
+					<td>2015년  4월  4일 16시</td>
+					<td>토요일</td>
+					<td>경기도 오산시 수청동</td>
+				
+					<td>경상사고</td>
+					<td>0</td>
+					<td>0</td>
+					<td>1</td>
+					<td>0</td>
+					<td>차대사람 - 횡단중</td>
+					<td>신호위반</td>
+					<td>포장 - 습기</td>
+					<td>비</td>
+					<td>단일로 - 횡단보도상</td>
+					<td>승용</td>
+					<td>남</td>
+					<td>50세</td>
+					<td>상해없음</td>
+					<td>보행자</td>
+					<td>남</td>
+					<td>6세</td>
+					<td>경상</td>
+				
+			</tr>
+		
+			<tr>
+					<td class="format-text-excel">2015040800100469</td>
+					<td>2015년  4월  8일 20시</td>
+					<td>수요일</td>
+					<td>경기도 오산시 원동</td>
+				
+					<td>경상사고</td>
+					<td>0</td>
+					<td>0</td>
+					<td>3</td>
+					<td>0</td>
+					<td>차대차 - 기타</td>
+					<td>차로위반</td>
+					<td>포장 - 건조</td>
+					<td>맑음</td>
+					<td>단일로 - 기타</td>
+					<td>이륜</td>
+					<td>남</td>
+					<td>25세</td>
+					<td>상해없음</td>
+					<td>승용</td>
+					<td>남</td>
+					<td>29세</td>
+					<td>경상</td>
+				
+			</tr>
+		
+			<tr>
+					<td class="format-text-excel">2015041000100190</td>
+					<td>2015년  4월 10일 10시</td>
+					<td>금요일</td>
+					<td>경기도 오산시 갈곶동</td>
+				
+					<td>중상사고</td>
+					<td>0</td>
+					<td>1</td>
+					<td>1</td>
+					<td>0</td>
+					<td>차대차 - 측면직각충돌</td>
+					<td>안전운전불이행</td>
+					<td>포장 - 건조</td>
+					<td>맑음</td>
+					<td>교차로 - 교차로부근</td>
+					<td>승용</td>
+					<td>여</td>
+					<td>29세</td>
+					<td>중상</td>
+					<td>승용</td>
+					<td>남</td>
+					<td>68세</td>
+					<td>상해없음</td>
+				
+			</tr>
+		
+			<tr>
+					<td class="format-text-excel">2015041000100459</td>
+					<td>2015년  4월 10일 18시</td>
+					<td>금요일</td>
+					<td>경기도 오산시 원동</td>
+				
+					<td>경상사고</td>
+					<td>0</td>
+					<td>0</td>
+					<td>1</td>
+					<td>0</td>
+					<td>차대사람 - 기타</td>
+					<td>안전운전불이행</td>
+					<td>포장 - 건조</td>
+					<td>맑음</td>
+					<td>기타 - 기타</td>
+					<td>승용</td>
+					<td>남</td>
+					<td>49세</td>
+					<td>상해없음</td>
+					<td>보행자</td>
+					<td>여</td>
+					<td>5세</td>
+					<td>경상</td>
+				
+			</tr>
+		
+			<tr>
+					<td class="format-text-excel">2015051400100480</td>
+					<td>2015년  5월 14일 19시</td>
+					<td>목요일</td>
+					<td>경기도 오산시 원동</td>
+				
+					<td>경상사고</td>
+					<td>0</td>
+					<td>0</td>
+					<td>4</td>
+					<td>0</td>
+					<td>차대차 - 기타</td>
+					<td>안전거리미확보</td>
+					<td>포장 - 건조</td>
+					<td>맑음</td>
+					<td>단일로 - 기타</td>
+					<td>화물</td>
+					<td>남</td>
+					<td>53세</td>
+					<td>상해없음</td>
+					<td>승용</td>
+					<td>남</td>
+					<td>40세</td>
+					<td>경상</td>
+				
+			</tr>
+		
+			<tr>
+					<td class="format-text-excel">2015052300100209</td>
+					<td>2015년  5월 23일 10시</td>
+					<td>토요일</td>
+					<td>경기도 오산시 금암동</td>
+				
+					<td>경상사고</td>
+					<td>0</td>
+					<td>0</td>
+					<td>1</td>
+					<td>0</td>
+					<td>차대사람 - 차도통행중</td>
+					<td>안전운전불이행</td>
+					<td>포장 - 건조</td>
+					<td>맑음</td>
+					<td>단일로 - 기타</td>
+					<td>승용</td>
+					<td>여</td>
+					<td>40세</td>
+					<td>상해없음</td>
+					<td>보행자</td>
+					<td>여</td>
+					<td>6세</td>
+					<td>경상</td>
+				
+			</tr>
+		
+			<tr>
+					<td class="format-text-excel">2015061300100387</td>
+					<td>2015년  6월 13일 16시</td>
+					<td>토요일</td>
+					<td>경기도 오산시 내삼미동</td>
+				
+					<td>중상사고</td>
+					<td>0</td>
+					<td>1</td>
+					<td>0</td>
+					<td>0</td>
+					<td>차대사람 - 길가장자리구역통행중</td>
+					<td>안전운전불이행</td>
+					<td>포장 - 건조</td>
+					<td>맑음</td>
+					<td>단일로 - 기타</td>
+					<td>승용</td>
+					<td>여</td>
+					<td>51세</td>
+					<td>상해없음</td>
+					<td>보행자</td>
+					<td>여</td>
+					<td>2세</td>
+					<td>중상</td>
+				
+			</tr>
+		
+			<tr>
+					<td class="format-text-excel">2015061400100387</td>
+					<td>2015년  6월 14일 18시</td>
+					<td>일요일</td>
+					<td>경기도 오산시 궐동</td>
+				
+					<td>중상사고</td>
+					<td>0</td>
+					<td>1</td>
+					<td>0</td>
+					<td>0</td>
+					<td>차대차 - 기타</td>
+					<td>신호위반</td>
+					<td>포장 - 건조</td>
+					<td>맑음</td>
+					<td>교차로 - 교차로부근</td>
+					<td>승용</td>
+					<td>남</td>
+					<td>33세</td>
+					<td>상해없음</td>
+					<td>자전거</td>
+					<td>남</td>
+					<td>11세</td>
+					<td>중상</td>
+				
+			</tr>
+		
+			<tr>
+					<td class="format-text-excel">2015061900100418</td>
+					<td>2015년  6월 19일 17시</td>
+					<td>금요일</td>
+					<td>경기도 오산시 청호동</td>
+				
+					<td>부상신고사고</td>
+					<td>0</td>
+					<td>0</td>
+					<td>0</td>
+					<td>1</td>
+					<td>차대사람 - 횡단중</td>
+					<td>보행자보호의무위반</td>
+					<td>포장 - 건조</td>
+					<td>맑음</td>
+					<td>교차로 - 교차로안</td>
+					<td>승합</td>
+					<td>남</td>
+					<td>51세</td>
+					<td>상해없음</td>
+					<td>보행자</td>
+					<td>남</td>
+					<td>8세</td>
+					<td>부상신고</td>
+				
+			</tr>
+		
+			<tr>
+					<td class="format-text-excel">2015070300100510</td>
+					<td>2015년  7월  3일 19시</td>
+					<td>금요일</td>
+					<td>경기도 오산시 원동</td>
+				
+					<td>중상사고</td>
+					<td>0</td>
+					<td>1</td>
+					<td>0</td>
+					<td>0</td>
+					<td>차대차 - 추돌 - 진행중</td>
+					<td>안전운전불이행</td>
+					<td>포장 - 건조</td>
+					<td>맑음</td>
+					<td>단일로 - 기타</td>
+					<td>승용</td>
+					<td>여</td>
+					<td>52세</td>
+					<td>상해없음</td>
+					<td>자전거</td>
+					<td>남</td>
+					<td>10세</td>
+					<td>중상</td>
+				
+			</tr>
+		
+			<tr>
+					<td class="format-text-excel">2015071300100432</td>
+					<td>2015년  7월 13일 16시</td>
+					<td>월요일</td>
+					<td>경기도 오산시 서동</td>
+				
+					<td>중상사고</td>
+					<td>0</td>
+					<td>1</td>
+					<td>0</td>
+					<td>0</td>
+					<td>차대사람 - 기타</td>
+					<td>안전운전불이행</td>
+					<td>포장 - 건조</td>
+					<td>맑음</td>
+					<td>기타 - 기타</td>
+					<td>승합</td>
+					<td>남</td>
+					<td>29세</td>
+					<td>상해없음</td>
+					<td>보행자</td>
+					<td>여</td>
+					<td>9세</td>
+					<td>중상</td>
+				
+			</tr>
+		
+			<tr>
+					<td class="format-text-excel">2015071800100295</td>
+					<td>2015년  7월 18일 13시</td>
+					<td>토요일</td>
+					<td>경기도 오산시 원동</td>
+				
+					<td>중상사고</td>
+					<td>0</td>
+					<td>1</td>
+					<td>0</td>
+					<td>0</td>
+					<td>차대사람 - 횡단중</td>
+					<td>안전운전불이행</td>
+					<td>포장 - 건조</td>
+					<td>맑음</td>
+					<td>단일로 - 기타</td>
+					<td>승용</td>
+					<td>남</td>
+					<td>52세</td>
+					<td>상해없음</td>
+					<td>보행자</td>
+					<td>남</td>
+					<td>6세</td>
+					<td>중상</td>
+				
+			</tr>
+		
+			<tr>
+					<td class="format-text-excel">2015073000100410</td>
+					<td>2015년  7월 30일 16시</td>
+					<td>목요일</td>
+					<td>경기도 오산시 원동</td>
+				
+					<td>중상사고</td>
+					<td>0</td>
+					<td>1</td>
+					<td>0</td>
+					<td>0</td>
+					<td>차대차 - 측면직각충돌</td>
+					<td>안전운전불이행</td>
+					<td>포장 - 건조</td>
+					<td>맑음</td>
+					<td>교차로 - 교차로안</td>
+					<td>화물</td>
+					<td>남</td>
+					<td>48세</td>
+					<td>상해없음</td>
+					<td>자전거</td>
+					<td>여</td>
+					<td>9세</td>
+					<td>중상</td>
+				
+			</tr>
+		
+			<tr>
+					<td class="format-text-excel">2015091300100196</td>
+					<td>2015년  9월 13일 11시</td>
+					<td>일요일</td>
+					<td>경기도 오산시 누읍동</td>
+				
+					<td>경상사고</td>
+					<td>0</td>
+					<td>0</td>
+					<td>1</td>
+					<td>0</td>
+					<td>차대차 - 측면직각충돌</td>
+					<td>안전운전불이행</td>
+					<td>포장 - 건조</td>
+					<td>맑음</td>
+					<td>교차로 - 교차로안</td>
+					<td>승용</td>
+					<td>여</td>
+					<td>48세</td>
+					<td>상해없음</td>
+					<td>자전거</td>
+					<td>남</td>
+					<td>7세</td>
+					<td>경상</td>
+				
+			</tr>
+		
+			<tr>
+					<td class="format-text-excel">2015092000100130</td>
+					<td>2015년  9월 20일 08시</td>
+					<td>일요일</td>
+					<td>경기도 오산시 누읍동</td>
+				
+					<td>경상사고</td>
+					<td>0</td>
+					<td>0</td>
+					<td>1</td>
+					<td>0</td>
+					<td>차량단독 - 기타</td>
+					<td>기타</td>
+					<td>포장 - 건조</td>
+					<td>맑음</td>
+					<td>단일로 - 기타</td>
+					<td>승합</td>
+					<td>남</td>
+					<td>52세</td>
+					<td>상해없음</td>
+					<td></td>
+					<td></td>
+					<td></td>
+					<td></td>
+				
+			</tr>
+		
+			<tr>
+					<td class="format-text-excel">2015092400100679</td>
+					<td>2015년  9월 24일 21시</td>
+					<td>목요일</td>
+					<td>경기도 오산시 원동</td>
+				
+					<td>경상사고</td>
+					<td>0</td>
+					<td>0</td>
+					<td>2</td>
+					<td>0</td>
+					<td>차대차 - 추돌 - 주정차중</td>
+					<td>안전운전불이행</td>
+					<td>포장 - 건조</td>
+					<td>맑음</td>
+					<td>교차로 - 교차로부근</td>
+					<td>승용</td>
+					<td>남</td>
+					<td>36세</td>
+					<td>상해없음</td>
+					<td>원동기</td>
+					<td>여</td>
+					<td>57세</td>
+					<td>기타불명</td>
+				
+			</tr>
+		
+			<tr>
+					<td class="format-text-excel">2015100300100490</td>
+					<td>2015년 10월  3일 18시</td>
+					<td>토요일</td>
+					<td>경기도 오산시 오산동</td>
+				
+					<td>부상신고사고</td>
+					<td>0</td>
+					<td>0</td>
+					<td>0</td>
+					<td>1</td>
+					<td>차대사람 - 길가장자리구역통행중</td>
+					<td>안전운전불이행</td>
+					<td>포장 - 건조</td>
+					<td>맑음</td>
+					<td>단일로 - 기타</td>
+					<td>승용</td>
+					<td>여</td>
+					<td>34세</td>
+					<td>기타불명</td>
+					<td>보행자</td>
+					<td>남</td>
+					<td>8세</td>
+					<td>부상신고</td>
+				
+			</tr>
+		
+			<tr>
+					<td class="format-text-excel">2015100500100643</td>
+					<td>2015년 10월  5일 21시</td>
+					<td>월요일</td>
+					<td>경기도 오산시 세교동</td>
+				
+					<td>경상사고</td>
+					<td>0</td>
+					<td>0</td>
+					<td>3</td>
+					<td>0</td>
+					<td>차대차 - 측면직각충돌</td>
+					<td>신호위반</td>
+					<td>포장 - 건조</td>
+					<td>맑음</td>
+					<td>단일로 - 기타</td>
+					<td>승용</td>
+					<td>남</td>
+					<td>37세</td>
+					<td>상해없음</td>
+					<td>승용</td>
+					<td>여</td>
+					<td>35세</td>
+					<td>경상</td>
+				
+			</tr>
+		
+			<tr>
+					<td class="format-text-excel">2015102100100512</td>
+					<td>2015년 10월 21일 20시</td>
+					<td>수요일</td>
+					<td>경기도 오산시 원동</td>
+				
+					<td>중상사고</td>
+					<td>0</td>
+					<td>1</td>
+					<td>1</td>
+					<td>0</td>
+					<td>차대사람 - 횡단중</td>
+					<td>보행자보호의무위반</td>
+					<td>포장 - 건조</td>
+					<td>맑음</td>
+					<td>교차로 - 교차로안</td>
+					<td>승용</td>
+					<td>남</td>
+					<td>59세</td>
+					<td>상해없음</td>
+					<td>보행자</td>
+					<td>여</td>
+					<td>27세</td>
+					<td>중상</td>
+				
+			</tr>
+		
+			<tr>
+					<td class="format-text-excel">2015102900100386</td>
+					<td>2015년 10월 29일 16시</td>
+					<td>목요일</td>
+					<td>경기도 오산시 원동</td>
+				
+					<td>경상사고</td>
+					<td>0</td>
+					<td>0</td>
+					<td>1</td>
+					<td>0</td>
+					<td>차대차 - 추돌 - 진행중</td>
+					<td>교차로운행방법위반</td>
+					<td>포장 - 건조</td>
+					<td>맑음</td>
+					<td>교차로 - 교차로부근</td>
+					<td>화물</td>
+					<td>남</td>
+					<td>59세</td>
+					<td>상해없음</td>
+					<td>승합</td>
+					<td>남</td>
+					<td>57세</td>
+					<td>상해없음</td>
+				
+			</tr>
+		
+			<tr>
+					<td class="format-text-excel">2015103000100536</td>
+					<td>2015년 10월 30일 17시</td>
+					<td>금요일</td>
+					<td>경기도 오산시 오산동</td>
+				
+					<td>경상사고</td>
+					<td>0</td>
+					<td>0</td>
+					<td>1</td>
+					<td>0</td>
+					<td>차대사람 - 기타</td>
+					<td>안전운전불이행</td>
+					<td>포장 - 건조</td>
+					<td>맑음</td>
+					<td>교차로 - 교차로부근</td>
+					<td>승용</td>
+					<td>남</td>
+					<td>67세</td>
+					<td>상해없음</td>
+					<td>보행자</td>
+					<td>남</td>
+					<td>10세</td>
+					<td>경상</td>
+				
+			</tr>
+		
+			<tr>
+					<td class="format-text-excel">2015110400100192</td>
+					<td>2015년 11월  4일 09시</td>
+					<td>수요일</td>
+					<td>경기도 오산시 금암동</td>
+				
+					<td>경상사고</td>
+					<td>0</td>
+					<td>0</td>
+					<td>3</td>
+					<td>0</td>
+					<td>차대차 - 측면직각충돌</td>
+					<td>안전운전불이행</td>
+					<td>포장 - 건조</td>
+					<td>맑음</td>
+					<td>기타 - 기타</td>
+					<td>승용</td>
+					<td>여</td>
+					<td>44세</td>
+					<td>상해없음</td>
+					<td>승용</td>
+					<td>여</td>
+					<td>35세</td>
+					<td>경상</td>
+				
+			</tr>
+		
+			<tr>
+					<td class="format-text-excel">2015111900100133</td>
+					<td>2015년 11월 19일 08시</td>
+					<td>목요일</td>
+					<td>경기도 오산시 오산동</td>
+				
+					<td>중상사고</td>
+					<td>0</td>
+					<td>1</td>
+					<td>0</td>
+					<td>0</td>
+					<td>차대사람 - 횡단중</td>
+					<td>안전운전불이행</td>
+					<td>포장 - 건조</td>
+					<td>맑음</td>
+					<td>교차로 - 교차로부근</td>
+					<td>승용</td>
+					<td>여</td>
+					<td>43세</td>
+					<td>상해없음</td>
+					<td>보행자</td>
+					<td>여</td>
+					<td>10세</td>
+					<td>중상</td>
+				
+			</tr>
+		
+			<tr>
+					<td class="format-text-excel">2015112700100419</td>
+					<td>2015년 11월 27일 16시</td>
+					<td>금요일</td>
+					<td>경기도 오산시 원동</td>
+				
+					<td>중상사고</td>
+					<td>0</td>
+					<td>2</td>
+					<td>3</td>
+					<td>0</td>
+					<td>차대차 - 추돌 - 진행중</td>
+					<td>안전운전불이행</td>
+					<td>포장 - 건조</td>
+					<td>맑음</td>
+					<td>단일로 - 기타</td>
+					<td>승용</td>
+					<td>여</td>
+					<td>36세</td>
+					<td>중상</td>
+					<td>승합</td>
+					<td>여</td>
+					<td>44세</td>
+					<td>중상</td>
+				
+			</tr>
+		
+			<tr>
+					<td class="format-text-excel">2015120800100388</td>
+					<td>2015년 12월  8일 16시</td>
+					<td>화요일</td>
+					<td>경기도 오산시 원동</td>
+				
+					<td>중상사고</td>
+					<td>0</td>
+					<td>1</td>
+					<td>0</td>
+					<td>0</td>
+					<td>차대사람 - 횡단중</td>
+					<td>보행자보호의무위반</td>
+					<td>포장 - 건조</td>
+					<td>맑음</td>
+					<td>교차로 - 교차로부근</td>
+					<td>승용</td>
+					<td>여</td>
+					<td>37세</td>
+					<td>상해없음</td>
+					<td>보행자</td>
+					<td>남</td>
+					<td>8세</td>
+					<td>중상</td>
+				
+			</tr>
+		
+			<tr>
+					<td class="format-text-excel">2015121600100445</td>
+					<td>2015년 12월 16일 18시</td>
+					<td>수요일</td>
+					<td>경기도 오산시 오산동</td>
+				
+					<td>중상사고</td>
+					<td>0</td>
+					<td>1</td>
+					<td>0</td>
+					<td>0</td>
+					<td>차대차 - 정면충돌</td>
+					<td>교차로운행방법위반</td>
+					<td>포장 - 건조</td>
+					<td>맑음</td>
+					<td>교차로 - 교차로부근</td>
+					<td>승용</td>
+					<td>남</td>
+					<td>67세</td>
+					<td>상해없음</td>
+					<td>자전거</td>
+					<td>남</td>
+					<td>6세</td>
+					<td>중상</td>
+				
+			</tr>
+		
+			<tr>
+					<td class="format-text-excel">2016010100100256</td>
+					<td>2016년  1월  1일 14시</td>
+					<td>금요일</td>
+					<td>경기도 오산시 오산동</td>
+				
+					<td>부상신고사고</td>
+					<td>0</td>
+					<td>0</td>
+					<td>0</td>
+					<td>1</td>
+					<td>차대차 - 측면직각충돌</td>
+					<td>교차로운행방법위반</td>
+					<td>포장 - 건조</td>
+					<td>맑음</td>
+					<td>교차로 - 교차로안</td>
+					<td>승용</td>
+					<td>남</td>
+					<td>41세</td>
+					<td>상해없음</td>
+					<td>자전거</td>
+					<td>남</td>
+					<td>58세</td>
+					<td>상해없음</td>
+				
+			</tr>
+		
+			<tr>
+					<td class="format-text-excel">2016012200100563</td>
+					<td>2016년  1월 22일 22시</td>
+					<td>금요일</td>
+					<td>경기도 오산시 수청동</td>
+				
+					<td>경상사고</td>
+					<td>0</td>
+					<td>0</td>
+					<td>3</td>
+					<td>0</td>
+					<td>차대차 - 정면충돌</td>
+					<td>안전운전불이행</td>
+					<td>포장 - 건조</td>
+					<td>맑음</td>
+					<td>교차로 - 교차로안</td>
+					<td>승용</td>
+					<td>여</td>
+					<td>53세</td>
+					<td>기타불명</td>
+					<td>승용</td>
+					<td>여</td>
+					<td>43세</td>
+					<td>경상</td>
+				
+			</tr>
+		
+			<tr>
+					<td class="format-text-excel">2016012500100393</td>
+					<td>2016년  1월 25일 18시</td>
+					<td>월요일</td>
+					<td>경기도 오산시 금암동</td>
+				
+					<td>중상사고</td>
+					<td>0</td>
+					<td>1</td>
+					<td>1</td>
+					<td>0</td>
+					<td>차량단독 - 공작물충돌</td>
+					<td>안전운전불이행</td>
+					<td>포장 - 건조</td>
+					<td>맑음</td>
+					<td>단일로 - 기타</td>
+					<td>승용</td>
+					<td>여</td>
+					<td>39세</td>
+					<td>중상</td>
+					<td></td>
+					<td></td>
+					<td></td>
+					<td></td>
+				
+			</tr>
+		
+			<tr>
+					<td class="format-text-excel">2016020300100130</td>
+					<td>2016년  2월  3일 08시</td>
+					<td>수요일</td>
+					<td>경기도 오산시 부산동</td>
+				
+					<td>경상사고</td>
+					<td>0</td>
+					<td>0</td>
+					<td>1</td>
+					<td>0</td>
+					<td>차대사람 - 횡단중</td>
+					<td>안전운전불이행</td>
+					<td>포장 - 건조</td>
+					<td>맑음</td>
+					<td>단일로 - 기타</td>
+					<td>승용</td>
+					<td>남</td>
+					<td>45세</td>
+					<td>상해없음</td>
+					<td>보행자</td>
+					<td>남</td>
+					<td>9세</td>
+					<td>경상</td>
+				
+			</tr>
+		
+			<tr>
+					<td class="format-text-excel">2016020600100525</td>
+					<td>2016년  2월  6일 21시</td>
+					<td>토요일</td>
+					<td>경기도 오산시 금암동</td>
+				
+					<td>경상사고</td>
+					<td>0</td>
+					<td>0</td>
+					<td>1</td>
+					<td>0</td>
+					<td>차대사람 - 횡단중</td>
+					<td>보행자보호의무위반</td>
+					<td>포장 - 건조</td>
+					<td>맑음</td>
+					<td>단일로 - 횡단보도부근</td>
+					<td>승용</td>
+					<td>여</td>
+					<td>20세</td>
+					<td>상해없음</td>
+					<td>보행자</td>
+					<td>남</td>
+					<td>5세</td>
+					<td>경상</td>
+				
+			</tr>
+		
+			<tr>
+					<td class="format-text-excel">2016021000100301</td>
+					<td>2016년  2월 10일 18시</td>
+					<td>수요일</td>
+					<td>경기도 오산시 청학동</td>
+				
+					<td>중상사고</td>
+					<td>0</td>
+					<td>1</td>
+					<td>0</td>
+					<td>0</td>
+					<td>차대사람 - 횡단중</td>
+					<td>기타</td>
+					<td>포장 - 건조</td>
+					<td>맑음</td>
+					<td>단일로 - 기타</td>
+					<td>승용</td>
+					<td>여</td>
+					<td>50세</td>
+					<td>상해없음</td>
+					<td>보행자</td>
+					<td>남</td>
+					<td>12세</td>
+					<td>중상</td>
+				
+			</tr>
+		
+			<tr>
+					<td class="format-text-excel">2016022300100138</td>
+					<td>2016년  2월 23일 09시</td>
+					<td>화요일</td>
+					<td>경기도 오산시 내삼미동</td>
+				
+					<td>경상사고</td>
+					<td>0</td>
+					<td>0</td>
+					<td>3</td>
+					<td>0</td>
+					<td>차대차 - 추돌 - 주정차중</td>
+					<td>안전운전불이행</td>
+					<td>포장 - 습기</td>
+					<td>맑음</td>
+					<td>교차로 - 교차로부근</td>
+					<td>승용</td>
+					<td>여</td>
+					<td>30세</td>
+					<td>기타불명</td>
+					<td>승용</td>
+					<td>여</td>
+					<td>33세</td>
+					<td>경상</td>
+				
+			</tr>
+		
+			<tr>
+					<td class="format-text-excel">2016030500100404</td>
+					<td>2016년  3월  5일 17시</td>
+					<td>토요일</td>
+					<td>경기도 오산시 오산동</td>
+				
+					<td>중상사고</td>
+					<td>0</td>
+					<td>3</td>
+					<td>3</td>
+					<td>1</td>
+					<td>차대차 - 정면충돌</td>
+					<td>신호위반</td>
+					<td>포장 - 습기</td>
+					<td>비</td>
+					<td>교차로 - 교차로안</td>
+					<td>승용</td>
+					<td>남</td>
+					<td>32세</td>
+					<td>경상</td>
+					<td>승용</td>
+					<td>남</td>
+					<td>34세</td>
+					<td>중상</td>
+				
+			</tr>
+		
+			<tr>
+					<td class="format-text-excel">2016030500100534</td>
+					<td>2016년  3월  5일 20시</td>
+					<td>토요일</td>
+					<td>경기도 오산시 궐동</td>
+				
+					<td>중상사고</td>
+					<td>0</td>
+					<td>1</td>
+					<td>3</td>
+					<td>0</td>
+					<td>차대차 - 추돌 - 주정차중</td>
+					<td>안전운전불이행</td>
+					<td>포장 - 건조</td>
+					<td>흐림</td>
+					<td>교차로 - 교차로부근</td>
+					<td>승용</td>
+					<td>남</td>
+					<td>44세</td>
+					<td>기타불명</td>
+					<td>승용</td>
+					<td>남</td>
+					<td>43세</td>
+					<td>경상</td>
+				
+			</tr>
+		
+			<tr>
+					<td class="format-text-excel">2016031600100350</td>
+					<td>2016년  3월 16일 16시</td>
+					<td>수요일</td>
+					<td>경기도 오산시 누읍동</td>
+				
+					<td>중상사고</td>
+					<td>0</td>
+					<td>1</td>
+					<td>0</td>
+					<td>3</td>
+					<td>차대차 - 기타</td>
+					<td>신호위반</td>
+					<td>포장 - 건조</td>
+					<td>맑음</td>
+					<td>교차로 - 교차로안</td>
+					<td>승용</td>
+					<td>여</td>
+					<td>31세</td>
+					<td>부상신고</td>
+					<td>승용</td>
+					<td>남</td>
+					<td>52세</td>
+					<td>중상</td>
+				
+			</tr>
+		
+			<tr>
+					<td class="format-text-excel">2016040900100606</td>
+					<td>2016년  4월  9일 21시</td>
+					<td>토요일</td>
+					<td>경기도 오산시 내삼미동</td>
+				
+					<td>경상사고</td>
+					<td>0</td>
+					<td>0</td>
+					<td>3</td>
+					<td>0</td>
+					<td>차대차 - 정면충돌</td>
+					<td>안전운전불이행</td>
+					<td>포장 - 건조</td>
+					<td>맑음</td>
+					<td>단일로 - 기타</td>
+					<td>승용</td>
+					<td>남</td>
+					<td>32세</td>
+					<td>상해없음</td>
+					<td>승용</td>
+					<td>여</td>
+					<td>46세</td>
+					<td>경상</td>
+				
+			</tr>
+		
+			<tr>
+					<td class="format-text-excel">2016041800100435</td>
+					<td>2016년  4월 18일 17시</td>
+					<td>월요일</td>
+					<td>경기도 오산시 내삼미동</td>
+				
+					<td>경상사고</td>
+					<td>0</td>
+					<td>0</td>
+					<td>2</td>
+					<td>0</td>
+					<td>차대차 - 추돌 - 주정차중</td>
+					<td>안전운전불이행</td>
+					<td>포장 - 건조</td>
+					<td>흐림</td>
+					<td>단일로 - 기타</td>
+					<td>화물</td>
+					<td>남</td>
+					<td>43세</td>
+					<td>상해없음</td>
+					<td>승용</td>
+					<td>여</td>
+					<td>29세</td>
+					<td>경상</td>
+				
+			</tr>
+		
+			<tr>
+					<td class="format-text-excel">2016041800100607</td>
+					<td>2016년  4월 18일 21시</td>
+					<td>월요일</td>
+					<td>경기도 오산시 궐동</td>
+				
+					<td>경상사고</td>
+					<td>0</td>
+					<td>0</td>
+					<td>1</td>
+					<td>0</td>
+					<td>차대사람 - 횡단중</td>
+					<td>안전운전불이행</td>
+					<td>포장 - 건조</td>
+					<td>흐림</td>
+					<td>단일로 - 기타</td>
+					<td>기타불명</td>
+					<td>기타불명</td>
+					<td>기타불명</td>
+					<td>기타불명</td>
+					<td>보행자</td>
+					<td>여</td>
+					<td>6세</td>
+					<td>경상</td>
+				
+			</tr>
+		
+			<tr>
+					<td class="format-text-excel">2016042400100228</td>
+					<td>2016년  4월 24일 13시</td>
+					<td>일요일</td>
+					<td>경기도 오산시 원동</td>
+				
+					<td>중상사고</td>
+					<td>0</td>
+					<td>1</td>
+					<td>0</td>
+					<td>0</td>
+					<td>차대사람 - 횡단중</td>
+					<td>안전운전불이행</td>
+					<td>포장 - 건조</td>
+					<td>맑음</td>
+					<td>단일로 - 기타</td>
+					<td>승용</td>
+					<td>남</td>
+					<td>43세</td>
+					<td>상해없음</td>
+					<td>보행자</td>
+					<td>남</td>
+					<td>7세</td>
+					<td>중상</td>
+				
+			</tr>
+		
+			<tr>
+					<td class="format-text-excel">2016043000100510</td>
+					<td>2016년  4월 30일 18시</td>
+					<td>토요일</td>
+					<td>경기도 오산시 청학동</td>
+				
+					<td>경상사고</td>
+					<td>0</td>
+					<td>0</td>
+					<td>1</td>
+					<td>0</td>
+					<td>차대사람 - 횡단중</td>
+					<td>보행자보호의무위반</td>
+					<td>포장 - 건조</td>
+					<td>맑음</td>
+					<td>단일로 - 횡단보도상</td>
+					<td>기타불명</td>
+					<td>기타불명</td>
+					<td>기타불명</td>
+					<td>기타불명</td>
+					<td>보행자</td>
+					<td>남</td>
+					<td>6세</td>
+					<td>경상</td>
+				
+			</tr>
+		
+			<tr>
+					<td class="format-text-excel">2016051200100364</td>
+					<td>2016년  5월 12일 15시</td>
+					<td>목요일</td>
+					<td>경기도 오산시 양산동</td>
+				
+					<td>중상사고</td>
+					<td>0</td>
+					<td>1</td>
+					<td>0</td>
+					<td>0</td>
+					<td>차대사람 - 횡단중</td>
+					<td>안전운전불이행</td>
+					<td>포장 - 건조</td>
+					<td>맑음</td>
+					<td>단일로 - 기타</td>
+					<td>화물</td>
+					<td>남</td>
+					<td>45세</td>
+					<td>상해없음</td>
+					<td>보행자</td>
+					<td>여</td>
+					<td>7세</td>
+					<td>중상</td>
+				
+			</tr>
+		
+			<tr>
+					<td class="format-text-excel">2016052400100408</td>
+					<td>2016년  5월 24일 16시</td>
+					<td>화요일</td>
+					<td>경기도 오산시 외삼미동</td>
+				
+					<td>중상사고</td>
+					<td>0</td>
+					<td>3</td>
+					<td>4</td>
+					<td>0</td>
+					<td>차대차 - 추돌 - 주정차중</td>
+					<td>안전운전불이행</td>
+					<td>포장 - 건조</td>
+					<td>맑음</td>
+					<td>단일로 - 기타</td>
+					<td>승용</td>
+					<td>여</td>
+					<td>38세</td>
+					<td>중상</td>
+					<td>승용</td>
+					<td>여</td>
+					<td>41세</td>
+					<td>중상</td>
+				
+			</tr>
+		
+			<tr>
+					<td class="format-text-excel">2016052700100426</td>
+					<td>2016년  5월 27일 17시</td>
+					<td>금요일</td>
+					<td>경기도 오산시 궐동</td>
+				
+					<td>경상사고</td>
+					<td>0</td>
+					<td>0</td>
+					<td>2</td>
+					<td>0</td>
+					<td>차대차 - 정면충돌</td>
+					<td>기타</td>
+					<td>포장 - 건조</td>
+					<td>맑음</td>
+					<td>교차로 - 교차로안</td>
+					<td>승용</td>
+					<td>남</td>
+					<td>72세</td>
+					<td>상해없음</td>
+					<td>승용</td>
+					<td>여</td>
+					<td>42세</td>
+					<td>상해없음</td>
+				
+			</tr>
+		
+			<tr>
+					<td class="format-text-excel">2016053100100494</td>
+					<td>2016년  5월 31일 19시</td>
+					<td>화요일</td>
+					<td>경기도 오산시 가수동</td>
+				
+					<td>경상사고</td>
+					<td>0</td>
+					<td>0</td>
+					<td>1</td>
+					<td>1</td>
+					<td>차대차 - 정면충돌</td>
+					<td>안전운전불이행</td>
+					<td>포장 - 건조</td>
+					<td>맑음</td>
+					<td>교차로 - 교차로안</td>
+					<td>승용</td>
+					<td>남</td>
+					<td>50세</td>
+					<td>상해없음</td>
+					<td>승용</td>
+					<td>여</td>
+					<td>37세</td>
+					<td>경상</td>
+				
+			</tr>
+		
+			<tr>
+					<td class="format-text-excel">2016060400100265</td>
+					<td>2016년  6월  4일 12시</td>
+					<td>토요일</td>
+					<td>경기도 오산시 오산동</td>
+				
+					<td>경상사고</td>
+					<td>0</td>
+					<td>0</td>
+					<td>1</td>
+					<td>0</td>
+					<td>차대차 - 정면충돌</td>
+					<td>안전운전불이행</td>
+					<td>포장 - 건조</td>
+					<td>맑음</td>
+					<td>교차로 - 교차로부근</td>
+					<td>건설기계</td>
+					<td>남</td>
+					<td>40세</td>
+					<td>상해없음</td>
+					<td>승용</td>
+					<td>여</td>
+					<td>36세</td>
+					<td>상해없음</td>
+				
+			</tr>
+		
+			<tr>
+					<td class="format-text-excel">2016060400100441</td>
+					<td>2016년  6월  4일 16시</td>
+					<td>토요일</td>
+					<td>경기도 오산시 궐동</td>
+				
+					<td>중상사고</td>
+					<td>0</td>
+					<td>2</td>
+					<td>2</td>
+					<td>0</td>
+					<td>차대차 - 정면충돌</td>
+					<td>기타</td>
+					<td>포장 - 건조</td>
+					<td>맑음</td>
+					<td>단일로 - 기타</td>
+					<td>승용</td>
+					<td>여</td>
+					<td>44세</td>
+					<td>상해없음</td>
+					<td>승용</td>
+					<td>여</td>
+					<td>62세</td>
+					<td>중상</td>
+				
+			</tr>
+		
+			<tr>
+					<td class="format-text-excel">2016060600100006</td>
+					<td>2016년  6월  6일 00시</td>
+					<td>월요일</td>
+					<td>경기도 오산시 오산동</td>
+				
+					<td>경상사고</td>
+					<td>0</td>
+					<td>0</td>
+					<td>3</td>
+					<td>0</td>
+					<td>차대차 - 정면충돌</td>
+					<td>안전운전불이행</td>
+					<td>포장 - 건조</td>
+					<td>맑음</td>
+					<td>교차로 - 교차로부근</td>
+					<td>승용</td>
+					<td>남</td>
+					<td>35세</td>
+					<td>상해없음</td>
+					<td>승용</td>
+					<td>남</td>
+					<td>37세</td>
+					<td>경상</td>
+				
+			</tr>
+		
+			<tr>
+					<td class="format-text-excel">2016061400100174</td>
+					<td>2016년  6월 14일 10시</td>
+					<td>화요일</td>
+					<td>경기도 오산시 세교동</td>
+				
+					<td>경상사고</td>
+					<td>0</td>
+					<td>0</td>
+					<td>1</td>
+					<td>0</td>
+					<td>차대사람 - 횡단중</td>
+					<td>보행자보호의무위반</td>
+					<td>포장 - 건조</td>
+					<td>맑음</td>
+					<td>교차로 - 교차로부근</td>
+					<td>승용</td>
+					<td>여</td>
+					<td>41세</td>
+					<td>상해없음</td>
+					<td>보행자</td>
+					<td>여</td>
+					<td>2세</td>
+					<td>경상</td>
+				
+			</tr>
+		
+			<tr>
+					<td class="format-text-excel">2016062100100422</td>
+					<td>2016년  6월 21일 17시</td>
+					<td>화요일</td>
+					<td>경기도 오산시 수청동</td>
+				
+					<td>중상사고</td>
+					<td>0</td>
+					<td>1</td>
+					<td>3</td>
+					<td>0</td>
+					<td>차대차 - 측면직각충돌</td>
+					<td>신호위반</td>
+					<td>포장 - 건조</td>
+					<td>맑음</td>
+					<td>교차로 - 교차로안</td>
+					<td>농기계</td>
+					<td>남</td>
+					<td>76세</td>
+					<td>중상</td>
+					<td>승용</td>
+					<td>남</td>
+					<td>37세</td>
+					<td>경상</td>
+				
+			</tr>
+		
+			<tr>
+					<td class="format-text-excel">2016062100100501</td>
+					<td>2016년  6월 21일 19시</td>
+					<td>화요일</td>
+					<td>경기도 오산시 가수동</td>
+				
+					<td>부상신고사고</td>
+					<td>0</td>
+					<td>0</td>
+					<td>0</td>
+					<td>1</td>
+					<td>차대사람 - 횡단중</td>
+					<td>보행자보호의무위반</td>
+					<td>포장 - 건조</td>
+					<td>맑음</td>
+					<td>단일로 - 기타</td>
+					<td>승용</td>
+					<td>여</td>
+					<td>54세</td>
+					<td>기타불명</td>
+					<td>보행자</td>
+					<td>남</td>
+					<td>7세</td>
+					<td>부상신고</td>
+				
+			</tr>
+		
+			<tr>
+					<td class="format-text-excel">2016062600100391</td>
+					<td>2016년  6월 26일 19시</td>
+					<td>일요일</td>
+					<td>경기도 오산시 원동</td>
+				
+					<td>경상사고</td>
+					<td>0</td>
+					<td>0</td>
+					<td>2</td>
+					<td>0</td>
+					<td>차대차 - 기타</td>
+					<td>안전운전불이행</td>
+					<td>포장 - 건조</td>
+					<td>맑음</td>
+					<td>교차로 - 교차로부근</td>
+					<td>승용</td>
+					<td>여</td>
+					<td>52세</td>
+					<td>상해없음</td>
+					<td>승용</td>
+					<td>남</td>
+					<td>35세</td>
+					<td>경상</td>
+				
+			</tr>
+		
+			<tr>
+					<td class="format-text-excel">2016062700100133</td>
+					<td>2016년  6월 27일 09시</td>
+					<td>월요일</td>
+					<td>경기도 오산시 원동</td>
+				
+					<td>중상사고</td>
+					<td>0</td>
+					<td>1</td>
+					<td>0</td>
+					<td>0</td>
+					<td>차대사람 - 횡단중</td>
+					<td>보행자보호의무위반</td>
+					<td>포장 - 건조</td>
+					<td>맑음</td>
+					<td>교차로 - 교차로부근</td>
+					<td>승용</td>
+					<td>여</td>
+					<td>52세</td>
+					<td>상해없음</td>
+					<td>보행자</td>
+					<td>여</td>
+					<td>4세</td>
+					<td>중상</td>
+				
+			</tr>
+		
+			<tr>
+					<td class="format-text-excel">2016062900100080</td>
+					<td>2016년  6월 29일 07시</td>
+					<td>수요일</td>
+					<td>경기도 오산시 고현동</td>
+				
+					<td>경상사고</td>
+					<td>0</td>
+					<td>0</td>
+					<td>2</td>
+					<td>0</td>
+					<td>차대차 - 정면충돌</td>
+					<td>신호위반</td>
+					<td>포장 - 건조</td>
+					<td>맑음</td>
+					<td>교차로 - 교차로안</td>
+					<td>승용</td>
+					<td>여</td>
+					<td>50세</td>
+					<td>기타불명</td>
+					<td>승용</td>
+					<td>여</td>
+					<td>38세</td>
+					<td>경상</td>
+				
+			</tr>
+		
+			<tr>
+					<td class="format-text-excel">2016071500100612</td>
+					<td>2016년  7월 15일 21시</td>
+					<td>금요일</td>
+					<td>경기도 오산시 고현동</td>
+				
+					<td>경상사고</td>
+					<td>0</td>
+					<td>0</td>
+					<td>2</td>
+					<td>0</td>
+					<td>차대차 - 정면충돌</td>
+					<td>안전운전불이행</td>
+					<td>포장 - 건조</td>
+					<td>맑음</td>
+					<td>교차로 - 교차로부근</td>
+					<td>승용</td>
+					<td>남</td>
+					<td>81세</td>
+					<td>기타불명</td>
+					<td>승용</td>
+					<td>여</td>
+					<td>41세</td>
+					<td>경상</td>
+				
+			</tr>
+		
+			<tr>
+					<td class="format-text-excel">2016072100100468</td>
+					<td>2016년  7월 21일 18시</td>
+					<td>목요일</td>
+					<td>경기도 오산시 원동</td>
+				
+					<td>중상사고</td>
+					<td>0</td>
+					<td>1</td>
+					<td>0</td>
+					<td>0</td>
+					<td>차대차 - 측면직각충돌</td>
+					<td>안전운전불이행</td>
+					<td>포장 - 건조</td>
+					<td>맑음</td>
+					<td>기타 - 기타</td>
+					<td>승용</td>
+					<td>여</td>
+					<td>28세</td>
+					<td>상해없음</td>
+					<td>자전거</td>
+					<td>남</td>
+					<td>12세</td>
+					<td>중상</td>
+				
+			</tr>
+		
+			<tr>
+					<td class="format-text-excel">2016072800100534</td>
+					<td>2016년  7월 28일 21시</td>
+					<td>목요일</td>
+					<td>경기도 오산시 원동</td>
+				
+					<td>중상사고</td>
+					<td>0</td>
+					<td>1</td>
+					<td>4</td>
+					<td>0</td>
+					<td>차대차 - 정면충돌</td>
+					<td>중앙선침범</td>
+					<td>포장 - 건조</td>
+					<td>맑음</td>
+					<td>단일로 - 기타</td>
+					<td>승용</td>
+					<td>남</td>
+					<td>34세</td>
+					<td>상해없음</td>
+					<td>승용</td>
+					<td>남</td>
+					<td>28세</td>
+					<td>경상</td>
+				
+			</tr>
+		
+			<tr>
+					<td class="format-text-excel">2016080800100423</td>
+					<td>2016년  8월  8일 17시</td>
+					<td>월요일</td>
+					<td>경기도 오산시 갈곶동</td>
+				
+					<td>중상사고</td>
+					<td>0</td>
+					<td>1</td>
+					<td>0</td>
+					<td>0</td>
+					<td>차대사람 - 횡단중</td>
+					<td>안전운전불이행</td>
+					<td>포장 - 건조</td>
+					<td>맑음</td>
+					<td>단일로 - 기타</td>
+					<td>승용</td>
+					<td>여</td>
+					<td>40세</td>
+					<td>상해없음</td>
+					<td>보행자</td>
+					<td>남</td>
+					<td>4세</td>
+					<td>중상</td>
+				
+			</tr>
+		
+			<tr>
+					<td class="format-text-excel">2016080800100454</td>
+					<td>2016년  8월  8일 18시</td>
+					<td>월요일</td>
+					<td>경기도 오산시 오산동</td>
+				
+					<td>경상사고</td>
+					<td>0</td>
+					<td>0</td>
+					<td>1</td>
+					<td>0</td>
+					<td>차대차 - 정면충돌</td>
+					<td>안전운전불이행</td>
+					<td>포장 - 건조</td>
+					<td>맑음</td>
+					<td>교차로 - 교차로부근</td>
+					<td>승용</td>
+					<td>여</td>
+					<td>61세</td>
+					<td>상해없음</td>
+					<td>자전거</td>
+					<td>남</td>
+					<td>7세</td>
+					<td>경상</td>
+				
+			</tr>
+		
+			<tr>
+					<td class="format-text-excel">2016081100100257</td>
+					<td>2016년  8월 11일 13시</td>
+					<td>목요일</td>
+					<td>경기도 오산시 원동</td>
+				
+					<td>경상사고</td>
+					<td>0</td>
+					<td>0</td>
+					<td>1</td>
+					<td>0</td>
+					<td>차대차 - 기타</td>
+					<td>과속</td>
+					<td>포장 - 건조</td>
+					<td>맑음</td>
+					<td>단일로 - 기타</td>
+					<td>승용</td>
+					<td>남</td>
+					<td>45세</td>
+					<td>상해없음</td>
+					<td>자전거</td>
+					<td>남</td>
+					<td>6세</td>
+					<td>경상</td>
+				
+			</tr>
+		
+			<tr>
+					<td class="format-text-excel">2016081300100522</td>
+					<td>2016년  8월 13일 19시</td>
+					<td>토요일</td>
+					<td>경기도 오산시 오산동</td>
+				
+					<td>경상사고</td>
+					<td>0</td>
+					<td>0</td>
+					<td>1</td>
+					<td>0</td>
+					<td>차대사람 - 횡단중</td>
+					<td>보행자보호의무위반</td>
+					<td>포장 - 건조</td>
+					<td>맑음</td>
+					<td>교차로 - 교차로부근</td>
+					<td>승용</td>
+					<td>남</td>
+					<td>32세</td>
+					<td>상해없음</td>
+					<td>보행자</td>
+					<td>남</td>
+					<td>6세</td>
+					<td>경상</td>
+				
+			</tr>
+		
+			<tr>
+					<td class="format-text-excel">2016081400100357</td>
+					<td>2016년  8월 14일 18시</td>
+					<td>일요일</td>
+					<td>경기도 오산시 내삼미동</td>
+				
+					<td>경상사고</td>
+					<td>0</td>
+					<td>0</td>
+					<td>4</td>
+					<td>0</td>
+					<td>차대차 - 정면충돌</td>
+					<td>신호위반</td>
+					<td>포장 - 건조</td>
+					<td>맑음</td>
+					<td>교차로 - 교차로안</td>
+					<td>이륜</td>
+					<td>남</td>
+					<td>18세</td>
+					<td>경상</td>
+					<td>화물</td>
+					<td>남</td>
+					<td>41세</td>
+					<td>경상</td>
+				
+			</tr>
+		
+			<tr>
+					<td class="format-text-excel">2016081500100374</td>
+					<td>2016년  8월 15일 19시</td>
+					<td>월요일</td>
+					<td>경기도 오산시 오산동</td>
+				
+					<td>부상신고사고</td>
+					<td>0</td>
+					<td>0</td>
+					<td>0</td>
+					<td>1</td>
+					<td>차대사람 - 횡단중</td>
+					<td>신호위반</td>
+					<td>포장 - 건조</td>
+					<td>맑음</td>
+					<td>교차로 - 교차로부근</td>
+					<td>승용</td>
+					<td>남</td>
+					<td>22세</td>
+					<td>상해없음</td>
+					<td>보행자</td>
+					<td>남</td>
+					<td>5세</td>
+					<td>부상신고</td>
+				
+			</tr>
+		
+			<tr>
+					<td class="format-text-excel">2016082600100605</td>
+					<td>2016년  8월 26일 19시</td>
+					<td>금요일</td>
+					<td>경기도 오산시 오산동</td>
+				
+					<td>경상사고</td>
+					<td>0</td>
+					<td>0</td>
+					<td>1</td>
+					<td>0</td>
+					<td>차대사람 - 횡단중</td>
+					<td>안전운전불이행</td>
+					<td>포장 - 건조</td>
+					<td>맑음</td>
+					<td>단일로 - 횡단보도상</td>
+					<td>승용</td>
+					<td>여</td>
+					<td>64세</td>
+					<td>상해없음</td>
+					<td>보행자</td>
+					<td>남</td>
+					<td>6세</td>
+					<td>경상</td>
+				
+			</tr>
+		
+			<tr>
+					<td class="format-text-excel">2016091300100350</td>
+					<td>2016년  9월 13일 14시</td>
+					<td>화요일</td>
+					<td>경기도 오산시 수청동</td>
+				
+					<td>중상사고</td>
+					<td>0</td>
+					<td>1</td>
+					<td>0</td>
+					<td>0</td>
+					<td>차대차 - 정면충돌</td>
+					<td>안전운전불이행</td>
+					<td>포장 - 건조</td>
+					<td>맑음</td>
+					<td>단일로 - 횡단보도상</td>
+					<td>승용</td>
+					<td>남</td>
+					<td>50세</td>
+					<td>상해없음</td>
+					<td>자전거</td>
+					<td>남</td>
+					<td>12세</td>
+					<td>중상</td>
+				
+			</tr>
+		
+			<tr>
+					<td class="format-text-excel">2016091400100251</td>
+					<td>2016년  9월 14일 13시</td>
+					<td>수요일</td>
+					<td>경기도 오산시 원동</td>
+				
+					<td>경상사고</td>
+					<td>0</td>
+					<td>0</td>
+					<td>4</td>
+					<td>0</td>
+					<td>차대차 - 기타</td>
+					<td>안전운전불이행</td>
+					<td>포장 - 건조</td>
+					<td>맑음</td>
+					<td>단일로 - 기타</td>
+					<td>승용</td>
+					<td>남</td>
+					<td>30세</td>
+					<td>상해없음</td>
+					<td>승용</td>
+					<td>남</td>
+					<td>41세</td>
+					<td>경상</td>
+				
+			</tr>
+		
+			<tr>
+					<td class="format-text-excel">2016092500100288</td>
+					<td>2016년  9월 25일 15시</td>
+					<td>일요일</td>
+					<td>경기도 오산시 세교동</td>
+				
+					<td>중상사고</td>
+					<td>0</td>
+					<td>1</td>
+					<td>0</td>
+					<td>0</td>
+					<td>차대사람 - 횡단중</td>
+					<td>안전운전불이행</td>
+					<td>포장 - 건조</td>
+					<td>맑음</td>
+					<td>단일로 - 기타</td>
+					<td>승용</td>
+					<td>여</td>
+					<td>42세</td>
+					<td>상해없음</td>
+					<td>보행자</td>
+					<td>여</td>
+					<td>5세</td>
+					<td>중상</td>
+				
+			</tr>
+		
+			<tr>
+					<td class="format-text-excel">2016092600100383</td>
+					<td>2016년  9월 26일 16시</td>
+					<td>월요일</td>
+					<td>경기도 오산시 내삼미동</td>
+				
+					<td>중상사고</td>
+					<td>0</td>
+					<td>2</td>
+					<td>0</td>
+					<td>0</td>
+					<td>차대차 - 정면충돌</td>
+					<td>안전운전불이행</td>
+					<td>포장 - 건조</td>
+					<td>맑음</td>
+					<td>단일로 - 기타</td>
+					<td>건설기계</td>
+					<td>남</td>
+					<td>63세</td>
+					<td>상해없음</td>
+					<td>승용</td>
+					<td>여</td>
+					<td>31세</td>
+					<td>중상</td>
+				
+			</tr>
+		
+			<tr>
+					<td class="format-text-excel">2016092600100384</td>
+					<td>2016년  9월 26일 16시</td>
+					<td>월요일</td>
+					<td>경기도 오산시 원동</td>
+				
+					<td>중상사고</td>
+					<td>0</td>
+					<td>1</td>
+					<td>1</td>
+					<td>0</td>
+					<td>차대차 - 정면충돌</td>
+					<td>신호위반</td>
+					<td>포장 - 건조</td>
+					<td>맑음</td>
+					<td>교차로 - 교차로안</td>
+					<td>승용</td>
+					<td>여</td>
+					<td>34세</td>
+					<td>상해없음</td>
+					<td>승합</td>
+					<td>남</td>
+					<td>53세</td>
+					<td>중상</td>
+				
+			</tr>
+		
+			<tr>
+					<td class="format-text-excel">2016100100100299</td>
+					<td>2016년 10월  1일 13시</td>
+					<td>토요일</td>
+					<td>경기도 오산시 세교동</td>
+				
+					<td>중상사고</td>
+					<td>0</td>
+					<td>2</td>
+					<td>1</td>
+					<td>0</td>
+					<td>차대차 - 정면충돌</td>
+					<td>신호위반</td>
+					<td>포장 - 건조</td>
+					<td>흐림</td>
+					<td>교차로 - 교차로부근</td>
+					<td>승용</td>
+					<td>여</td>
+					<td>31세</td>
+					<td>경상</td>
+					<td>승용</td>
+					<td>여</td>
+					<td>32세</td>
+					<td>중상</td>
+				
+			</tr>
+		
+			<tr>
+					<td class="format-text-excel">2016100200100368</td>
+					<td>2016년 10월  2일 18시</td>
+					<td>일요일</td>
+					<td>경기도 오산시 원동</td>
+				
+					<td>중상사고</td>
+					<td>0</td>
+					<td>2</td>
+					<td>6</td>
+					<td>0</td>
+					<td>차대차 - 정면충돌</td>
+					<td>신호위반</td>
+					<td>포장 - 습기</td>
+					<td>비</td>
+					<td>교차로 - 교차로안</td>
+					<td>화물</td>
+					<td>남</td>
+					<td>54세</td>
+					<td>상해없음</td>
+					<td>화물</td>
+					<td>남</td>
+					<td>66세</td>
+					<td>경상</td>
+				
+			</tr>
+		
+			<tr>
+					<td class="format-text-excel">2016100400100378</td>
+					<td>2016년 10월  4일 15시</td>
+					<td>화요일</td>
+					<td>경기도 오산시 오산동</td>
+				
+					<td>중상사고</td>
+					<td>0</td>
+					<td>1</td>
+					<td>0</td>
+					<td>0</td>
+					<td>차대사람 - 횡단중</td>
+					<td>안전운전불이행</td>
+					<td>포장 - 건조</td>
+					<td>맑음</td>
+					<td>교차로 - 교차로부근</td>
+					<td>승합</td>
+					<td>여</td>
+					<td>37세</td>
+					<td>상해없음</td>
+					<td>보행자</td>
+					<td>여</td>
+					<td>8세</td>
+					<td>중상</td>
+				
+			</tr>
+		
+			<tr>
+					<td class="format-text-excel">2016100800100258</td>
+					<td>2016년 10월  8일 09시</td>
+					<td>토요일</td>
+					<td>경기도 오산시 수청동</td>
+				
+					<td>경상사고</td>
+					<td>0</td>
+					<td>0</td>
+					<td>3</td>
+					<td>0</td>
+					<td>차대차 - 정면충돌</td>
+					<td>안전운전불이행</td>
+					<td>포장 - 건조</td>
+					<td>맑음</td>
+					<td>교차로 - 교차로부근</td>
+					<td>승합</td>
+					<td>남</td>
+					<td>62세</td>
+					<td>상해없음</td>
+					<td>승합</td>
+					<td>남</td>
+					<td>49세</td>
+					<td>상해없음</td>
+				
+			</tr>
+		
+			<tr>
+					<td class="format-text-excel">2016101500100493</td>
+					<td>2016년 10월 15일 18시</td>
+					<td>토요일</td>
+					<td>경기도 오산시 세교동</td>
+				
+					<td>경상사고</td>
+					<td>0</td>
+					<td>0</td>
+					<td>3</td>
+					<td>0</td>
+					<td>차대차 - 정면충돌</td>
+					<td>신호위반</td>
+					<td>포장 - 건조</td>
+					<td>맑음</td>
+					<td>단일로 - 기타</td>
+					<td>화물</td>
+					<td>남</td>
+					<td>55세</td>
+					<td>상해없음</td>
+					<td>승용</td>
+					<td>남</td>
+					<td>41세</td>
+					<td>경상</td>
+				
+			</tr>
+		
+			<tr>
+					<td class="format-text-excel">2016102100100620</td>
+					<td>2016년 10월 21일 20시</td>
+					<td>금요일</td>
+					<td>경기도 오산시 내삼미동</td>
+				
+					<td>경상사고</td>
+					<td>0</td>
+					<td>0</td>
+					<td>5</td>
+					<td>0</td>
+					<td>차대차 - 정면충돌</td>
+					<td>안전운전불이행</td>
+					<td>포장 - 건조</td>
+					<td>맑음</td>
+					<td>단일로 - 기타</td>
+					<td>승용</td>
+					<td>남</td>
+					<td>27세</td>
+					<td>상해없음</td>
+					<td>승용</td>
+					<td>여</td>
+					<td>33세</td>
+					<td>경상</td>
+				
+			</tr>
+		
+			<tr>
+					<td class="format-text-excel">2016102600100419</td>
+					<td>2016년 10월 26일 16시</td>
+					<td>수요일</td>
+					<td>경기도 오산시 금암동</td>
+				
+					<td>경상사고</td>
+					<td>0</td>
+					<td>0</td>
+					<td>1</td>
+					<td>0</td>
+					<td>차대차 - 기타</td>
+					<td>안전운전불이행</td>
+					<td>포장 - 건조</td>
+					<td>맑음</td>
+					<td>교차로 - 교차로안</td>
+					<td>승용</td>
+					<td>남</td>
+					<td>36세</td>
+					<td>상해없음</td>
+					<td>자전거</td>
+					<td>남</td>
+					<td>9세</td>
+					<td>경상</td>
+				
+			</tr>
+		
+			<tr>
+					<td class="format-text-excel">2016111400100432</td>
+					<td>2016년 11월 14일 17시</td>
+					<td>월요일</td>
+					<td>경기도 오산시 세교동</td>
+				
+					<td>경상사고</td>
+					<td>0</td>
+					<td>0</td>
+					<td>1</td>
+					<td>0</td>
+					<td>차대차 - 정면충돌</td>
+					<td>신호위반</td>
+					<td>포장 - 습기</td>
+					<td>비</td>
+					<td>교차로 - 교차로안</td>
+					<td>승용</td>
+					<td>여</td>
+					<td>56세</td>
+					<td>상해없음</td>
+					<td>자전거</td>
+					<td>남</td>
+					<td>7세</td>
+					<td>경상</td>
+				
+			</tr>
+		
+			<tr>
+					<td class="format-text-excel">2016111600100357</td>
+					<td>2016년 11월 16일 14시</td>
+					<td>수요일</td>
+					<td>경기도 오산시 수청동</td>
+				
+					<td>경상사고</td>
+					<td>0</td>
+					<td>0</td>
+					<td>2</td>
+					<td>0</td>
+					<td>차대차 - 정면충돌</td>
+					<td>교차로운행방법위반</td>
+					<td>포장 - 건조</td>
+					<td>맑음</td>
+					<td>교차로 - 교차로부근</td>
+					<td>건설기계</td>
+					<td>남</td>
+					<td>44세</td>
+					<td>상해없음</td>
+					<td>승용</td>
+					<td>남</td>
+					<td>39세</td>
+					<td>상해없음</td>
+				
+			</tr>
+		
+			<tr>
+					<td class="format-text-excel">2016111600100677</td>
+					<td>2016년 11월 16일 23시</td>
+					<td>수요일</td>
+					<td>경기도 오산시 원동</td>
+				
+					<td>경상사고</td>
+					<td>0</td>
+					<td>0</td>
+					<td>2</td>
+					<td>0</td>
+					<td>차대차 - 기타</td>
+					<td>안전운전불이행</td>
+					<td>포장 - 건조</td>
+					<td>맑음</td>
+					<td>교차로 - 교차로안</td>
+					<td>화물</td>
+					<td>남</td>
+					<td>54세</td>
+					<td>상해없음</td>
+					<td>승용</td>
+					<td>여</td>
+					<td>42세</td>
+					<td>경상</td>
+				
+			</tr>
+		
+			<tr>
+					<td class="format-text-excel">2016111800100433</td>
+					<td>2016년 11월 18일 17시</td>
+					<td>금요일</td>
+					<td>경기도 오산시 내삼미동</td>
+				
+					<td>경상사고</td>
+					<td>0</td>
+					<td>0</td>
+					<td>4</td>
+					<td>0</td>
+					<td>차대차 - 정면충돌</td>
+					<td>안전운전불이행</td>
+					<td>포장 - 습기</td>
+					<td>비</td>
+					<td>교차로 - 교차로부근</td>
+					<td>화물</td>
+					<td>남</td>
+					<td>48세</td>
+					<td>상해없음</td>
+					<td>승용</td>
+					<td>여</td>
+					<td>30세</td>
+					<td>경상</td>
+				
+			</tr>
+		
+			<tr>
+					<td class="format-text-excel">2016112600100189</td>
+					<td>2016년 11월 26일 11시</td>
+					<td>토요일</td>
+					<td>경기도 오산시 오산동</td>
+				
+					<td>경상사고</td>
+					<td>0</td>
+					<td>0</td>
+					<td>2</td>
+					<td>0</td>
+					<td>차대차 - 정면충돌</td>
+					<td>안전운전불이행</td>
+					<td>포장 - 건조</td>
+					<td>맑음</td>
+					<td>단일로 - 기타</td>
+					<td>건설기계</td>
+					<td>남</td>
+					<td>55세</td>
+					<td>상해없음</td>
+					<td>승용</td>
+					<td>여</td>
+					<td>45세</td>
+					<td>경상</td>
+				
+			</tr>
+		
+			<tr>
+					<td class="format-text-excel">2016121300100286</td>
+					<td>2016년 12월 13일 14시</td>
+					<td>화요일</td>
+					<td>경기도 오산시 갈곶동</td>
+				
+					<td>경상사고</td>
+					<td>0</td>
+					<td>0</td>
+					<td>1</td>
+					<td>0</td>
+					<td>차대사람 - 보도통행중</td>
+					<td>신호위반</td>
+					<td>포장 - 건조</td>
+					<td>맑음</td>
+					<td>단일로 - 기타</td>
+					<td>승용</td>
+					<td>여</td>
+					<td>45세</td>
+					<td>상해없음</td>
+					<td>보행자</td>
+					<td>남</td>
+					<td>9세</td>
+					<td>경상</td>
+				
+			</tr>
+		
+			<tr>
+					<td class="format-text-excel">2016122300100010</td>
+					<td>2016년 12월 23일 00시</td>
+					<td>금요일</td>
+					<td>경기도 오산시 내삼미동</td>
+				
+					<td>경상사고</td>
+					<td>0</td>
+					<td>0</td>
+					<td>3</td>
+					<td>1</td>
+					<td>차대차 - 정면충돌</td>
+					<td>신호위반</td>
+					<td>포장 - 건조</td>
+					<td>맑음</td>
+					<td>교차로 - 교차로안</td>
+					<td>승용</td>
+					<td>여</td>
+					<td>55세</td>
+					<td>상해없음</td>
+					<td>승용</td>
+					<td>남</td>
+					<td>44세</td>
+					<td>경상</td>
+				
+			</tr>
+		
+			<tr>
+					<td class="format-text-excel">2016122500100313</td>
+					<td>2016년 12월 25일 18시</td>
+					<td>일요일</td>
+					<td>경기도 오산시 세교동</td>
+				
+					<td>경상사고</td>
+					<td>0</td>
+					<td>0</td>
+					<td>8</td>
+					<td>0</td>
+					<td>차대차 - 측면직각충돌</td>
+					<td>안전운전불이행</td>
+					<td>포장 - 건조</td>
+					<td>맑음</td>
+					<td>단일로 - 기타</td>
+					<td>승용</td>
+					<td>남</td>
+					<td>27세</td>
+					<td>경상</td>
+					<td>승용</td>
+					<td>남</td>
+					<td>53세</td>
+					<td>경상</td>
+				
+			</tr>
+		
+			<tr>
+					<td class="format-text-excel">2016123100100425</td>
+					<td>2016년 12월 31일 18시</td>
+					<td>토요일</td>
+					<td>경기도 오산시 부산동</td>
+				
+					<td>경상사고</td>
+					<td>0</td>
+					<td>0</td>
+					<td>4</td>
+					<td>0</td>
+					<td>차대차 - 측면직각충돌</td>
+					<td>교차로운행방법위반</td>
+					<td>포장 - 건조</td>
+					<td>맑음</td>
+					<td>교차로 - 교차로안</td>
+					<td>승용</td>
+					<td>남</td>
+					<td>38세</td>
+					<td>경상</td>
+					<td>승용</td>
+					<td>여</td>
+					<td>36세</td>
+					<td>경상</td>
+				
+			</tr>
+		
+	</tbody>
+</table>
+
+</body>
+</html>
